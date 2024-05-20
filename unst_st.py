@@ -18,7 +18,7 @@ from fastapi.middleware.cors import CORSMiddleware
 import os
 
 # Set OpenAI API key
-os.environ["OPENAI_API_KEY"] = ""
+os.environ["OPENAI_API_KEY"] = st.secrets.get('OPENAI_API_KEY')
 llm = ChatOpenAI(model="gpt-4-turbo", temperature=1.0)
 
 # Load PDF files and combine text

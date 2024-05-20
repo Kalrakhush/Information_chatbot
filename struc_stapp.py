@@ -62,7 +62,7 @@ memory = ConversationBufferWindowMemory(
         return_messages=True
 )
 #3. Set up the LLM
-os.environ["OPENAI_API_KEY"] = ""
+os.environ["OPENAI_API_KEY"] = st.secrets.get('OPENAI_API_KEY')
 # llm_chain = LLMChain(llm=ChatOpenAI(temperature=0, model = "gpt-4"), prompt=prompt)
 multi_agent = create_csv_agent(
     ChatOpenAI(temperature=1.0, model="gpt-4"),
