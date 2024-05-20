@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat History</title>
+</head>
+<body>
+    <h1>Chat History</h1>
+    <ul>
+    {% for chat in chat_history %}
+        <li><strong>Question:</strong> {{ chat.question }}</li>
+        <li><strong>Response:</strong> {{ chat.response }}</li>
+        <hr>
+    {% endfor %}
+    </ul>
+</body>
+</html>

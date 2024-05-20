@@ -1,0 +1,501 @@
+Date of Expense,Quarter,Expense Category,Operating Expenses,Payment Method,Department,Supplier Name,Invoice/Receipt Reference,Expense Approval,Budgeted Amount vs. Actual Spend,Location,Department ID,Business Group
+2023-01-01 00:00:00,Q1 2023,Maintenance,954,Bank Transfer,Finance,Accenture,INV6489,Pending,853,Ajman,5,Abu Dhabi Aviation
+2023-01-02 00:00:00,Q1 2023,Software Subscriptions,3606,Bank Transfer,Sales,IBM,INV4974,Rejected,1446,Sharjah,6,Etihad Engineering
+2023-01-02 00:00:00,Q1 2023,Software Subscriptions,1160,Bank Transfer,HR,Intel,INV7135,Approved,1414,Dubai,2,AMMROC
+2023-01-02 00:00:00,Q1 2023,Salaries,763,Cash,Finance,PayPal,INV1969,Pending,925,Abu Dhabi,5,GAL
+2023-01-04 00:00:00,Q1 2023,Maintenance,4758,Credit Card,Operations,Adobe Inc.,INV4261,Pending,1029,Ras Al Khaimah,4,Abu Dhabi Aviation
+2023-01-04 00:00:00,Q1 2023,Maintenance,4161,Credit Card,Research & Development,Cisco Systems,INV3616,Rejected,765,Ajman,9,Etihad Engineering
+2023-01-05 00:00:00,Q1 2023,Utilities,4552,Cash,Sales,Amazon,INV5285,Approved,330,Fujairah,6,AMMROC
+2023-01-05 00:00:00,Q1 2023,Maintenance,4852,Bank Transfer,HR,Intuit,INV7824,Pending,1387,Dubai,2,GAL
+2023-01-05 00:00:00,Q1 2023,Utilities,6557,Cash,IT,Tencent,INV1998,Rejected,973,Ras Al Khaimah,1,Abu Dhabi Aviation
+2023-01-06 00:00:00,Q1 2023,Marketing,9821,Cash,Finance,Cisco Systems,INV6411,Rejected,314,Dubai,5,Etihad Engineering
+2023-01-08 00:00:00,Q1 2023,Rent,5700,Bank Transfer,Research & Development,Cisco Systems,INV6644,Approved,1323,Fujairah,9,AMMROC
+2023-01-10 00:00:00,Q1 2023,Maintenance,6628,Cash,Sales,Accenture,INV9590,Pending,-143,Abu Dhabi,6,GAL
+2023-01-11 00:00:00,Q1 2023,Marketing,4836,Bank Transfer,Customer Support,Dell Technologies,INV6890,Pending,1338,Dubai,7,Abu Dhabi Aviation
+2023-01-13 00:00:00,Q1 2023,Software Subscriptions,828,Bank Transfer,Finance,Microsoft,INV9285,Pending,-415,Ras Al Khaimah,5,Etihad Engineering
+2023-01-13 00:00:00,Q1 2023,Marketing,4207,Cash,Sales,Oracle,INV6770,Pending,418,Ras Al Khaimah,6,AMMROC
+2023-01-13 00:00:00,Q1 2023,Salaries,5490,Cash,Finance,HP Inc.,INV5681,Pending,-284,Fujairah,5,GAL
+2023-01-14 00:00:00,Q1 2023,Maintenance,6496,Credit Card,Research & Development,Adobe Inc.,INV9261,Rejected,756,Umm Al Quwain,9,Abu Dhabi Aviation
+2023-01-15 00:00:00,Q1 2023,Rent,7457,Cash,Sales,Accenture,INV5697,Approved,-390,Umm Al Quwain,6,Etihad Engineering
+2023-01-16 00:00:00,Q1 2023,Maintenance,5411,Credit Card,Product Development,Microsoft,INV1838,Pending,198,Sharjah,8,AMMROC
+2023-01-17 00:00:00,Q1 2023,Utilities,2533,Bank Transfer,HR,Adobe Inc.,INV7563,Pending,-104,Sharjah,2,GAL
+2023-01-17 00:00:00,Q1 2023,Maintenance,4648,Cash,Research & Development,Oracle,INV4618,Approved,-127,Ras Al Khaimah,9,Abu Dhabi Aviation
+2023-01-17 00:00:00,Q1 2023,Maintenance,3204,Cash,Finance,PayPal,INV6804,Approved,938,Umm Al Quwain,5,Etihad Engineering
+2023-01-19 00:00:00,Q1 2023,Utilities,2589,Cash,Customer Support,Oracle,INV8692,Pending,780,Fujairah,7,AMMROC
+2023-01-20 00:00:00,Q1 2023,Software Subscriptions,4074,Cash,IT,Accenture,INV1794,Pending,715,Dubai,1,GAL
+2023-01-21 00:00:00,Q1 2023,Maintenance,6086,Credit Card,Finance,Oracle,INV1797,Pending,483,Abu Dhabi,5,Abu Dhabi Aviation
+2023-01-21 00:00:00,Q1 2023,Salaries,951,Bank Transfer,HR,Alibaba,INV5272,Rejected,225,Abu Dhabi,2,Etihad Engineering
+2023-01-22 00:00:00,Q1 2023,Utilities,5978,Bank Transfer,Sales,Alibaba,INV4625,Approved,-198,Ajman,6,AMMROC
+2023-01-23 00:00:00,Q1 2023,Salaries,7199,Credit Card,IT,Accenture,INV3662,Rejected,-392,Fujairah,1,GAL
+2023-01-23 00:00:00,Q1 2023,Marketing,1779,Credit Card,Marketing,PayPal,INV8846,Rejected,1336,Dubai,3,Abu Dhabi Aviation
+2023-01-24 00:00:00,Q1 2023,Utilities,261,Cash,Finance,PayPal,INV6040,Approved,250,Ajman,5,Etihad Engineering
+2023-01-25 00:00:00,Q1 2023,Software Subscriptions,7674,Bank Transfer,Operations,SAP,INV4505,Pending,4,Umm Al Quwain,4,AMMROC
+2023-01-26 00:00:00,Q1 2023,Rent,669,Bank Transfer,Marketing,Accenture,INV9920,Approved,77,Sharjah,3,GAL
+2023-01-26 00:00:00,Q1 2023,Maintenance,4993,Bank Transfer,Finance,Huawei,INV2196,Rejected,-52,Abu Dhabi,5,Abu Dhabi Aviation
+2023-01-27 00:00:00,Q1 2023,Rent,680,Cash,Product Development,Intuit,INV5967,Pending,569,Sharjah,8,Etihad Engineering
+2023-01-28 00:00:00,Q1 2023,Rent,8452,Cash,Operations,Google,INV3695,Approved,208,Dubai,4,AMMROC
+2023-01-29 00:00:00,Q1 2023,Software Subscriptions,6378,Cash,IT,Dell Technologies,INV6608,Pending,593,Abu Dhabi,1,GAL
+2023-01-30 00:00:00,Q1 2023,Marketing,6809,Credit Card,Customer Support,Oracle,INV8585,Rejected,1433,Sharjah,7,Abu Dhabi Aviation
+2023-01-30 00:00:00,Q1 2023,Software Subscriptions,5635,Credit Card,Product Development,Microsoft,INV5470,Approved,531,Ajman,8,Etihad Engineering
+2023-01-30 00:00:00,Q1 2023,Salaries,4114,Cash,Marketing,Amazon,INV8546,Pending,263,Umm Al Quwain,3,AMMROC
+2023-01-30 00:00:00,Q1 2023,Utilities,3427,Cash,Sales,SAP,INV3086,Pending,826,Sharjah,6,GAL
+2023-01-31 00:00:00,Q1 2023,Maintenance,9308,Bank Transfer,HR,Oracle,INV2923,Pending,642,Umm Al Quwain,2,Abu Dhabi Aviation
+2023-01-31 00:00:00,Q1 2023,Marketing,2305,Cash,Customer Support,Oracle,INV3948,Pending,-63,Ajman,7,Etihad Engineering
+2023-02-01 00:00:00,Q1 2023,Marketing,1916,Cash,Product Development,Microsoft,INV1372,Rejected,752,Sharjah,8,AMMROC
+2023-02-01 00:00:00,Q1 2023,Rent,5011,Credit Card,Sales,Alibaba,INV4365,Pending,960,Abu Dhabi,6,GAL
+2023-02-02 00:00:00,Q1 2023,Software Subscriptions,6794,Credit Card,Sales,Intuit,INV1187,Approved,-245,Ajman,6,Abu Dhabi Aviation
+2023-02-02 00:00:00,Q1 2023,Software Subscriptions,3257,Bank Transfer,Finance,Accenture,INV4972,Approved,640,Sharjah,5,Etihad Engineering
+2023-02-03 00:00:00,Q1 2023,Rent,2831,Cash,Product Development,Cisco Systems,INV5038,Pending,705,Sharjah,8,AMMROC
+2023-02-04 00:00:00,Q1 2023,Rent,5523,Bank Transfer,IT,Huawei,INV7021,Pending,1324,Sharjah,1,GAL
+2023-02-04 00:00:00,Q1 2023,Marketing,884,Bank Transfer,Operations,Adobe Inc.,INV1527,Pending,297,Ras Al Khaimah,4,Abu Dhabi Aviation
+2023-02-05 00:00:00,Q1 2023,Maintenance,976,Credit Card,Operations,Google,INV5913,Approved,347,Dubai,4,Etihad Engineering
+2023-02-05 00:00:00,Q1 2023,Software Subscriptions,5775,Cash,Marketing,Huawei,INV7824,Rejected,157,Umm Al Quwain,3,AMMROC
+2023-02-05 00:00:00,Q1 2023,Software Subscriptions,2886,Cash,Marketing,Salesforce,INV1257,Approved,1048,Abu Dhabi,3,GAL
+2023-02-05 00:00:00,Q1 2023,Maintenance,254,Cash,Operations,PayPal,INV4088,Approved,-403,Fujairah,4,Abu Dhabi Aviation
+2023-02-05 00:00:00,Q1 2023,Maintenance,4489,Cash,IT,Adobe Inc.,INV5215,Pending,197,Umm Al Quwain,1,Etihad Engineering
+2023-02-06 00:00:00,Q1 2023,Software Subscriptions,2162,Credit Card,HR,Huawei,INV4340,Approved,688,Ajman,2,AMMROC
+2023-02-06 00:00:00,Q1 2023,Salaries,7258,Bank Transfer,Research & Development,Accenture,INV3188,Approved,-355,Ras Al Khaimah,9,GAL
+2023-02-06 00:00:00,Q1 2023,Rent,362,Credit Card,HR,SAP,INV7642,Approved,774,Dubai,2,Abu Dhabi Aviation
+2023-02-07 00:00:00,Q1 2023,Rent,6393,Cash,Finance,Intel,INV5508,Pending,-448,Umm Al Quwain,5,Etihad Engineering
+2023-02-07 00:00:00,Q1 2023,Software Subscriptions,3224,Cash,Research & Development,Tencent,INV6642,Rejected,1275,Sharjah,9,AMMROC
+2023-02-08 00:00:00,Q1 2023,Utilities,8854,Cash,Research & Development,Huawei,INV7487,Rejected,184,Ajman,9,GAL
+2023-02-08 00:00:00,Q1 2023,Software Subscriptions,6765,Cash,Product Development,Cisco Systems,INV9401,Pending,1096,Fujairah,8,Abu Dhabi Aviation
+2023-02-10 00:00:00,Q1 2023,Marketing,1685,Cash,IT,HP Inc.,INV9351,Rejected,-103,Ras Al Khaimah,1,Etihad Engineering
+2023-02-10 00:00:00,Q1 2023,Maintenance,9567,Cash,IT,Huawei,INV4728,Approved,453,Ras Al Khaimah,1,AMMROC
+2023-02-10 00:00:00,Q1 2023,Utilities,302,Credit Card,Research & Development,Microsoft,INV6417,Approved,175,Abu Dhabi,9,GAL
+2023-02-11 00:00:00,Q1 2023,Software Subscriptions,8816,Bank Transfer,Product Development,HP Inc.,INV1724,Rejected,519,Ajman,8,Abu Dhabi Aviation
+2023-02-11 00:00:00,Q1 2023,Software Subscriptions,3109,Credit Card,Research & Development,SAP,INV3541,Approved,305,Abu Dhabi,9,Etihad Engineering
+2023-02-13 00:00:00,Q1 2023,Salaries,4318,Credit Card,Customer Support,Oracle,INV3662,Rejected,-411,Abu Dhabi,7,AMMROC
+2023-02-14 00:00:00,Q1 2023,Maintenance,1785,Cash,Marketing,PayPal,INV7606,Rejected,1403,Ajman,3,GAL
+2023-02-16 00:00:00,Q1 2023,Software Subscriptions,1857,Cash,Marketing,PayPal,INV8849,Pending,-311,Abu Dhabi,3,Abu Dhabi Aviation
+2023-02-17 00:00:00,Q1 2023,Utilities,8096,Cash,HR,Google,INV2044,Rejected,-467,Sharjah,2,Etihad Engineering
+2023-02-17 00:00:00,Q1 2023,Software Subscriptions,8533,Credit Card,Finance,Microsoft,INV9508,Approved,992,Fujairah,5,AMMROC
+2023-02-17 00:00:00,Q1 2023,Rent,7104,Credit Card,Marketing,Adobe Inc.,INV1251,Pending,45,Sharjah,3,GAL
+2023-02-17 00:00:00,Q1 2023,Software Subscriptions,5151,Bank Transfer,Sales,Cisco Systems,INV4189,Pending,542,Umm Al Quwain,6,Abu Dhabi Aviation
+2023-02-18 00:00:00,Q1 2023,Utilities,5692,Bank Transfer,HR,Huawei,INV2279,Rejected,-396,Sharjah,2,Etihad Engineering
+2023-02-19 00:00:00,Q1 2023,Utilities,198,Cash,Marketing,Huawei,INV2838,Pending,622,Ajman,3,AMMROC
+2023-02-19 00:00:00,Q1 2023,Marketing,2712,Credit Card,Finance,Alibaba,INV3440,Pending,1088,Dubai,5,GAL
+2023-02-20 00:00:00,Q1 2023,Software Subscriptions,9592,Cash,IT,HP Inc.,INV2904,Approved,270,Dubai,1,Abu Dhabi Aviation
+2023-02-20 00:00:00,Q1 2023,Marketing,325,Bank Transfer,IT,PayPal,INV4570,Approved,969,Abu Dhabi,1,Etihad Engineering
+2023-02-21 00:00:00,Q1 2023,Maintenance,2591,Credit Card,Research & Development,HP Inc.,INV1768,Pending,-458,Ras Al Khaimah,9,AMMROC
+2023-02-21 00:00:00,Q1 2023,Software Subscriptions,7969,Credit Card,Customer Support,Alibaba,INV8871,Approved,412,Sharjah,7,GAL
+2023-02-22 00:00:00,Q1 2023,Salaries,4526,Bank Transfer,IT,Accenture,INV3194,Approved,1404,Abu Dhabi,1,Abu Dhabi Aviation
+2023-02-22 00:00:00,Q1 2023,Utilities,5152,Credit Card,Product Development,HP Inc.,INV4768,Pending,909,Fujairah,8,Etihad Engineering
+2023-02-22 00:00:00,Q1 2023,Salaries,8892,Credit Card,Marketing,Intuit,INV8761,Approved,390,Ajman,3,AMMROC
+2023-02-23 00:00:00,Q1 2023,Marketing,9032,Credit Card,Product Development,IBM,INV5177,Rejected,1469,Abu Dhabi,8,GAL
+2023-02-24 00:00:00,Q1 2023,Marketing,1250,Credit Card,Finance,Microsoft,INV8369,Approved,926,Dubai,5,Abu Dhabi Aviation
+2023-02-24 00:00:00,Q1 2023,Rent,3863,Bank Transfer,IT,Microsoft,INV3868,Rejected,666,Dubai,1,Etihad Engineering
+2023-02-25 00:00:00,Q1 2023,Software Subscriptions,8406,Bank Transfer,Customer Support,Tencent,INV1554,Rejected,1406,Ajman,7,AMMROC
+2023-02-25 00:00:00,Q1 2023,Salaries,6115,Credit Card,Finance,Intuit,INV9361,Rejected,1088,Umm Al Quwain,5,GAL
+2023-02-26 00:00:00,Q1 2023,Software Subscriptions,6474,Bank Transfer,Sales,Tencent,INV4310,Approved,714,Ras Al Khaimah,6,Abu Dhabi Aviation
+2023-02-27 00:00:00,Q1 2023,Software Subscriptions,960,Cash,Sales,Oracle,INV8710,Rejected,-222,Dubai,6,Etihad Engineering
+2023-02-27 00:00:00,Q1 2023,Maintenance,5349,Credit Card,Product Development,Dell Technologies,INV9092,Pending,471,Ajman,8,AMMROC
+2023-02-27 00:00:00,Q1 2023,Marketing,5981,Cash,Research & Development,Google,INV6892,Approved,-453,Dubai,9,GAL
+2023-02-27 00:00:00,Q1 2023,Utilities,9001,Credit Card,HR,Huawei,INV8822,Rejected,1199,Abu Dhabi,2,Abu Dhabi Aviation
+2023-02-28 00:00:00,Q1 2023,Software Subscriptions,7492,Bank Transfer,Research & Development,SAP,INV2647,Approved,-421,Dubai,9,Etihad Engineering
+2023-03-01 00:00:00,Q1 2023,Salaries,2938,Cash,Research & Development,Dell Technologies,INV2295,Pending,574,Ajman,9,AMMROC
+2023-03-01 00:00:00,Q1 2023,Rent,3540,Credit Card,Customer Support,Microsoft,INV1280,Pending,-273,Dubai,7,GAL
+2023-03-03 00:00:00,Q1 2023,Rent,7306,Bank Transfer,IT,Dell Technologies,INV4376,Rejected,-54,Umm Al Quwain,1,Abu Dhabi Aviation
+2023-03-03 00:00:00,Q1 2023,Software Subscriptions,3076,Credit Card,Customer Support,Tencent,INV5374,Approved,-111,Umm Al Quwain,7,Etihad Engineering
+2023-03-05 00:00:00,Q1 2023,Rent,8326,Credit Card,Finance,Intel,INV6511,Approved,709,Abu Dhabi,5,AMMROC
+2023-03-06 00:00:00,Q1 2023,Software Subscriptions,8104,Cash,Sales,Dell Technologies,INV1230,Rejected,701,Fujairah,6,GAL
+2023-03-07 00:00:00,Q1 2023,Marketing,3031,Bank Transfer,Customer Support,Intel,INV6523,Approved,39,Abu Dhabi,7,Abu Dhabi Aviation
+2023-03-07 00:00:00,Q1 2023,Maintenance,8627,Credit Card,Finance,Dell Technologies,INV1749,Pending,218,Umm Al Quwain,5,Etihad Engineering
+2023-03-08 00:00:00,Q1 2023,Software Subscriptions,2844,Bank Transfer,Customer Support,Adobe Inc.,INV7498,Rejected,293,Ras Al Khaimah,7,AMMROC
+2023-03-09 00:00:00,Q1 2023,Marketing,5415,Bank Transfer,Research & Development,IBM,INV7688,Pending,1186,Ajman,9,GAL
+2023-03-09 00:00:00,Q1 2023,Software Subscriptions,6019,Credit Card,Marketing,Google,INV5944,Rejected,1031,Sharjah,3,Abu Dhabi Aviation
+2023-03-09 00:00:00,Q1 2023,Marketing,6297,Cash,Product Development,SAP,INV9806,Pending,740,Dubai,8,Etihad Engineering
+2023-03-10 00:00:00,Q1 2023,Software Subscriptions,8408,Cash,HR,Intuit,INV4331,Approved,-440,Fujairah,2,AMMROC
+2023-03-12 00:00:00,Q1 2023,Rent,8855,Bank Transfer,Customer Support,IBM,INV6674,Approved,-114,Ajman,7,GAL
+2023-03-13 00:00:00,Q1 2023,Marketing,8150,Credit Card,HR,SAP,INV7806,Rejected,608,Abu Dhabi,2,Abu Dhabi Aviation
+2023-03-13 00:00:00,Q1 2023,Maintenance,566,Bank Transfer,Operations,SAP,INV8060,Rejected,796,Dubai,4,Etihad Engineering
+2023-03-13 00:00:00,Q1 2023,Maintenance,4588,Bank Transfer,Customer Support,Google,INV5715,Rejected,743,Dubai,7,AMMROC
+2023-03-15 00:00:00,Q1 2023,Utilities,9162,Bank Transfer,Marketing,Huawei,INV6714,Pending,152,Ajman,3,GAL
+2023-03-17 00:00:00,Q1 2023,Rent,4711,Credit Card,HR,Intel,INV6126,Rejected,776,Sharjah,2,Abu Dhabi Aviation
+2023-03-18 00:00:00,Q1 2023,Salaries,7490,Credit Card,Customer Support,Dell Technologies,INV8635,Approved,549,Fujairah,7,Etihad Engineering
+2023-03-20 00:00:00,Q1 2023,Utilities,7380,Credit Card,IT,Intel,INV5742,Approved,155,Ras Al Khaimah,1,AMMROC
+2023-03-20 00:00:00,Q1 2023,Salaries,6992,Cash,Product Development,Adobe Inc.,INV9824,Approved,1031,Ajman,8,GAL
+2023-03-21 00:00:00,Q1 2023,Salaries,2031,Cash,Marketing,Microsoft,INV2514,Approved,528,Umm Al Quwain,3,Abu Dhabi Aviation
+2023-03-21 00:00:00,Q1 2023,Marketing,3990,Bank Transfer,HR,Salesforce,INV1637,Rejected,-105,Sharjah,2,Etihad Engineering
+2023-03-21 00:00:00,Q1 2023,Maintenance,5636,Credit Card,Marketing,PayPal,INV5216,Pending,835,Ajman,3,AMMROC
+2023-03-21 00:00:00,Q1 2023,Salaries,1080,Bank Transfer,Finance,Microsoft,INV3924,Rejected,1348,Fujairah,5,GAL
+2023-03-22 00:00:00,Q1 2023,Rent,4513,Credit Card,Product Development,Accenture,INV6262,Pending,1055,Fujairah,8,Abu Dhabi Aviation
+2023-03-22 00:00:00,Q1 2023,Marketing,7555,Credit Card,Customer Support,Salesforce,INV5055,Pending,1227,Ras Al Khaimah,7,Etihad Engineering
+2023-03-22 00:00:00,Q1 2023,Rent,7066,Credit Card,Customer Support,PayPal,INV8758,Pending,1435,Fujairah,7,AMMROC
+2023-03-23 00:00:00,Q1 2023,Rent,9917,Credit Card,Customer Support,Microsoft,INV1962,Pending,305,Dubai,7,GAL
+2023-03-23 00:00:00,Q1 2023,Software Subscriptions,3342,Cash,Product Development,Alibaba,INV5450,Pending,932,Sharjah,8,Abu Dhabi Aviation
+2023-03-23 00:00:00,Q1 2023,Utilities,1999,Cash,IT,Alibaba,INV9341,Pending,890,Fujairah,1,Etihad Engineering
+2023-03-24 00:00:00,Q1 2023,Maintenance,3796,Credit Card,Operations,Amazon,INV1151,Pending,1476,Fujairah,4,AMMROC
+2023-03-24 00:00:00,Q1 2023,Rent,2241,Credit Card,Sales,Accenture,INV5637,Rejected,644,Ajman,6,GAL
+2023-03-25 00:00:00,Q1 2023,Utilities,1166,Cash,Research & Development,SAP,INV9037,Approved,530,Umm Al Quwain,9,Abu Dhabi Aviation
+2023-03-25 00:00:00,Q1 2023,Rent,2795,Cash,HR,Adobe Inc.,INV9498,Pending,1356,Dubai,2,Etihad Engineering
+2023-03-25 00:00:00,Q1 2023,Marketing,978,Bank Transfer,IT,Amazon,INV1517,Rejected,691,Fujairah,1,AMMROC
+2023-03-26 00:00:00,Q1 2023,Rent,2030,Cash,HR,HP Inc.,INV7643,Pending,239,Dubai,2,GAL
+2023-03-26 00:00:00,Q1 2023,Software Subscriptions,1169,Credit Card,Customer Support,Intuit,INV3218,Pending,-383,Abu Dhabi,7,Abu Dhabi Aviation
+2023-03-27 00:00:00,Q1 2023,Marketing,7783,Credit Card,Marketing,Intuit,INV1987,Approved,-406,Umm Al Quwain,3,Etihad Engineering
+2023-03-29 00:00:00,Q1 2023,Software Subscriptions,2668,Credit Card,HR,Cisco Systems,INV8726,Approved,1171,Sharjah,2,AMMROC
+2023-04-01 00:00:00,Q2 2023,Software Subscriptions,7823,Bank Transfer,Customer Support,Google,INV8550,Pending,526,Umm Al Quwain,7,GAL
+2023-04-02 00:00:00,Q2 2023,Utilities,1595,Bank Transfer,HR,Intuit,INV9767,Approved,828,Fujairah,2,Abu Dhabi Aviation
+2023-04-02 00:00:00,Q2 2023,Utilities,5826,Credit Card,Marketing,Dell Technologies,INV3773,Approved,249,Abu Dhabi,3,Etihad Engineering
+2023-04-04 00:00:00,Q2 2023,Rent,1145,Bank Transfer,Customer Support,Amazon,INV1945,Pending,-44,Umm Al Quwain,7,AMMROC
+2023-04-06 00:00:00,Q2 2023,Maintenance,7906,Credit Card,Operations,HP Inc.,INV5516,Rejected,829,Umm Al Quwain,4,GAL
+2023-04-08 00:00:00,Q2 2023,Utilities,3075,Credit Card,IT,Tencent,INV9802,Approved,-100,Dubai,1,Abu Dhabi Aviation
+2023-04-08 00:00:00,Q2 2023,Software Subscriptions,4835,Cash,Finance,Google,INV8429,Rejected,981,Ras Al Khaimah,5,Etihad Engineering
+2023-04-08 00:00:00,Q2 2023,Marketing,2657,Cash,Research & Development,SAP,INV6927,Pending,1133,Ajman,9,AMMROC
+2023-04-09 00:00:00,Q2 2023,Salaries,9792,Credit Card,Product Development,Accenture,INV6427,Rejected,-266,Dubai,8,GAL
+2023-04-09 00:00:00,Q2 2023,Salaries,8967,Bank Transfer,Research & Development,Oracle,INV7114,Pending,-375,Dubai,9,Abu Dhabi Aviation
+2023-04-09 00:00:00,Q2 2023,Rent,4596,Credit Card,Research & Development,Google,INV1911,Rejected,213,Abu Dhabi,9,Etihad Engineering
+2023-04-12 00:00:00,Q2 2023,Rent,7654,Bank Transfer,Customer Support,Tencent,INV4052,Pending,782,Ras Al Khaimah,7,AMMROC
+2023-04-12 00:00:00,Q2 2023,Software Subscriptions,9374,Bank Transfer,Operations,Oracle,INV5582,Rejected,-425,Umm Al Quwain,4,GAL
+2023-04-13 00:00:00,Q2 2023,Salaries,7198,Bank Transfer,Finance,PayPal,INV3303,Pending,1247,Umm Al Quwain,5,Abu Dhabi Aviation
+2023-04-13 00:00:00,Q2 2023,Rent,7768,Cash,IT,Accenture,INV3252,Pending,-473,Ras Al Khaimah,1,Etihad Engineering
+2023-04-15 00:00:00,Q2 2023,Maintenance,8273,Cash,IT,IBM,INV9255,Approved,399,Abu Dhabi,1,AMMROC
+2023-04-15 00:00:00,Q2 2023,Rent,5337,Credit Card,Marketing,PayPal,INV1647,Pending,928,Sharjah,3,GAL
+2023-04-18 00:00:00,Q2 2023,Utilities,612,Bank Transfer,Product Development,Adobe Inc.,INV5398,Rejected,1352,Sharjah,8,Abu Dhabi Aviation
+2023-04-18 00:00:00,Q2 2023,Maintenance,6933,Bank Transfer,HR,Tencent,INV5836,Rejected,-27,Umm Al Quwain,2,Etihad Engineering
+2023-04-18 00:00:00,Q2 2023,Maintenance,4959,Cash,Operations,SAP,INV1310,Pending,445,Ras Al Khaimah,4,AMMROC
+2023-04-19 00:00:00,Q2 2023,Marketing,8254,Credit Card,HR,Intuit,INV5571,Approved,-334,Fujairah,2,GAL
+2023-04-19 00:00:00,Q2 2023,Maintenance,8210,Bank Transfer,Finance,Huawei,INV5876,Pending,1381,Sharjah,5,Abu Dhabi Aviation
+2023-04-19 00:00:00,Q2 2023,Maintenance,2611,Credit Card,Research & Development,Accenture,INV7567,Pending,668,Abu Dhabi,9,Etihad Engineering
+2023-04-20 00:00:00,Q2 2023,Marketing,7439,Credit Card,IT,Adobe Inc.,INV5703,Rejected,-251,Abu Dhabi,1,AMMROC
+2023-04-20 00:00:00,Q2 2023,Marketing,3151,Cash,Finance,Intel,INV9592,Approved,1406,Dubai,5,GAL
+2023-04-20 00:00:00,Q2 2023,Maintenance,4599,Credit Card,Research & Development,Adobe Inc.,INV9998,Approved,805,Sharjah,9,Abu Dhabi Aviation
+2023-04-21 00:00:00,Q2 2023,Utilities,8938,Bank Transfer,IT,Tencent,INV3245,Approved,548,Fujairah,1,Etihad Engineering
+2023-04-22 00:00:00,Q2 2023,Maintenance,1284,Credit Card,Research & Development,PayPal,INV9664,Pending,266,Dubai,9,AMMROC
+2023-04-22 00:00:00,Q2 2023,Rent,6520,Credit Card,Product Development,PayPal,INV6939,Approved,-324,Ras Al Khaimah,8,GAL
+2023-04-23 00:00:00,Q2 2023,Utilities,3661,Bank Transfer,Operations,IBM,INV3837,Rejected,824,Umm Al Quwain,4,Abu Dhabi Aviation
+2023-04-23 00:00:00,Q2 2023,Rent,5634,Cash,Finance,Adobe Inc.,INV6026,Pending,297,Ajman,5,Etihad Engineering
+2023-04-23 00:00:00,Q2 2023,Maintenance,7508,Credit Card,Finance,PayPal,INV2294,Rejected,524,Ras Al Khaimah,5,AMMROC
+2023-04-23 00:00:00,Q2 2023,Marketing,9267,Bank Transfer,Sales,IBM,INV7114,Rejected,234,Ras Al Khaimah,6,GAL
+2023-04-24 00:00:00,Q2 2023,Software Subscriptions,925,Credit Card,Customer Support,Intel,INV7756,Pending,-16,Sharjah,7,Abu Dhabi Aviation
+2023-04-25 00:00:00,Q2 2023,Salaries,7687,Cash,Product Development,Google,INV4583,Approved,754,Abu Dhabi,8,Etihad Engineering
+2023-04-25 00:00:00,Q2 2023,Software Subscriptions,6365,Credit Card,Product Development,Intuit,INV2761,Approved,1321,Sharjah,8,AMMROC
+2023-04-26 00:00:00,Q2 2023,Maintenance,5859,Bank Transfer,HR,IBM,INV5947,Pending,382,Ajman,2,GAL
+2023-04-27 00:00:00,Q2 2023,Maintenance,7643,Bank Transfer,Research & Development,Tencent,INV1149,Approved,796,Sharjah,9,Abu Dhabi Aviation
+2023-04-27 00:00:00,Q2 2023,Salaries,1095,Bank Transfer,Customer Support,Intuit,INV8775,Pending,532,Ras Al Khaimah,7,Etihad Engineering
+2023-04-28 00:00:00,Q2 2023,Marketing,8220,Bank Transfer,Operations,PayPal,INV2936,Rejected,-491,Sharjah,4,AMMROC
+2023-04-28 00:00:00,Q2 2023,Utilities,8492,Credit Card,Operations,Amazon,INV9950,Pending,775,Fujairah,4,GAL
+2023-04-28 00:00:00,Q2 2023,Salaries,2149,Credit Card,Product Development,HP Inc.,INV5833,Pending,515,Ajman,8,Abu Dhabi Aviation
+2023-04-30 00:00:00,Q2 2023,Software Subscriptions,1116,Bank Transfer,Operations,Tencent,INV1841,Rejected,-9,Ajman,4,Etihad Engineering
+2023-04-30 00:00:00,Q2 2023,Salaries,1284,Cash,Sales,Cisco Systems,INV5728,Pending,1135,Umm Al Quwain,6,AMMROC
+2023-05-01 00:00:00,Q2 2023,Salaries,7660,Cash,Finance,IBM,INV1256,Pending,358,Ajman,5,GAL
+2023-05-02 00:00:00,Q2 2023,Salaries,3270,Credit Card,Marketing,Huawei,INV3509,Rejected,762,Fujairah,3,Abu Dhabi Aviation
+2023-05-02 00:00:00,Q2 2023,Software Subscriptions,9107,Cash,HR,Google,INV9866,Rejected,871,Fujairah,2,Etihad Engineering
+2023-05-02 00:00:00,Q2 2023,Maintenance,4013,Credit Card,Research & Development,Alibaba,INV9005,Rejected,382,Ajman,9,AMMROC
+2023-05-03 00:00:00,Q2 2023,Utilities,5891,Credit Card,Research & Development,Intel,INV8668,Pending,-128,Sharjah,9,GAL
+2023-05-03 00:00:00,Q2 2023,Salaries,6102,Bank Transfer,IT,IBM,INV6224,Approved,924,Fujairah,1,Abu Dhabi Aviation
+2023-05-04 00:00:00,Q2 2023,Maintenance,5031,Bank Transfer,Marketing,Adobe Inc.,INV4159,Pending,645,Umm Al Quwain,3,Etihad Engineering
+2023-05-05 00:00:00,Q2 2023,Rent,9737,Bank Transfer,Product Development,Salesforce,INV9609,Pending,188,Abu Dhabi,8,AMMROC
+2023-05-06 00:00:00,Q2 2023,Utilities,2127,Bank Transfer,Sales,Accenture,INV3262,Rejected,888,Ras Al Khaimah,6,GAL
+2023-05-06 00:00:00,Q2 2023,Utilities,5834,Credit Card,Finance,Cisco Systems,INV1133,Approved,372,Ajman,5,Abu Dhabi Aviation
+2023-05-06 00:00:00,Q2 2023,Utilities,9283,Cash,Finance,Salesforce,INV7167,Rejected,-406,Ras Al Khaimah,5,Etihad Engineering
+2023-05-07 00:00:00,Q2 2023,Salaries,5901,Credit Card,Sales,Intel,INV2653,Pending,-252,Fujairah,6,AMMROC
+2023-05-07 00:00:00,Q2 2023,Rent,306,Credit Card,Customer Support,Salesforce,INV2996,Pending,1161,Ras Al Khaimah,7,GAL
+2023-05-07 00:00:00,Q2 2023,Utilities,2059,Cash,IT,Alibaba,INV6400,Pending,1117,Fujairah,1,Abu Dhabi Aviation
+2023-05-08 00:00:00,Q2 2023,Salaries,9860,Bank Transfer,Research & Development,Cisco Systems,INV4214,Rejected,-423,Sharjah,9,Etihad Engineering
+2023-05-08 00:00:00,Q2 2023,Salaries,1318,Credit Card,Marketing,Cisco Systems,INV8298,Pending,176,Ras Al Khaimah,3,AMMROC
+2023-05-08 00:00:00,Q2 2023,Salaries,9067,Cash,Operations,IBM,INV4015,Rejected,797,Sharjah,4,GAL
+2023-05-08 00:00:00,Q2 2023,Software Subscriptions,3536,Cash,IT,IBM,INV1356,Rejected,-450,Ras Al Khaimah,1,Abu Dhabi Aviation
+2023-05-09 00:00:00,Q2 2023,Salaries,5550,Cash,Marketing,Salesforce,INV2641,Rejected,-328,Abu Dhabi,3,Etihad Engineering
+2023-05-09 00:00:00,Q2 2023,Rent,9762,Bank Transfer,HR,Microsoft,INV6455,Approved,-155,Umm Al Quwain,2,AMMROC
+2023-05-14 00:00:00,Q2 2023,Rent,6755,Bank Transfer,HR,Accenture,INV3295,Approved,296,Fujairah,2,GAL
+2023-05-14 00:00:00,Q2 2023,Rent,3866,Cash,IT,Intel,INV9228,Rejected,-390,Fujairah,1,Abu Dhabi Aviation
+2023-05-15 00:00:00,Q2 2023,Salaries,2098,Credit Card,Product Development,Cisco Systems,INV2465,Pending,-454,Abu Dhabi,8,Etihad Engineering
+2023-05-15 00:00:00,Q2 2023,Software Subscriptions,7821,Cash,Marketing,PayPal,INV7464,Approved,-25,Abu Dhabi,3,AMMROC
+2023-05-15 00:00:00,Q2 2023,Utilities,5288,Bank Transfer,Marketing,Intel,INV6269,Approved,-454,Ajman,3,GAL
+2023-05-16 00:00:00,Q2 2023,Salaries,3520,Cash,Sales,Dell Technologies,INV8348,Pending,-233,Sharjah,6,Abu Dhabi Aviation
+2023-05-16 00:00:00,Q2 2023,Marketing,5586,Credit Card,Product Development,Dell Technologies,INV6218,Approved,562,Ajman,8,Etihad Engineering
+2023-05-16 00:00:00,Q2 2023,Marketing,7504,Bank Transfer,Research & Development,PayPal,INV4555,Rejected,144,Ras Al Khaimah,9,AMMROC
+2023-05-16 00:00:00,Q2 2023,Salaries,6049,Credit Card,Research & Development,Cisco Systems,INV6411,Pending,133,Fujairah,9,GAL
+2023-05-16 00:00:00,Q2 2023,Salaries,6714,Bank Transfer,Operations,Cisco Systems,INV6253,Rejected,853,Sharjah,4,Abu Dhabi Aviation
+2023-05-16 00:00:00,Q2 2023,Utilities,7038,Credit Card,Finance,HP Inc.,INV5480,Approved,253,Ajman,5,Etihad Engineering
+2023-05-16 00:00:00,Q2 2023,Maintenance,6387,Credit Card,HR,Tencent,INV8007,Approved,1227,Dubai,2,AMMROC
+2023-05-16 00:00:00,Q2 2023,Marketing,5322,Credit Card,Research & Development,Alibaba,INV7821,Rejected,260,Ras Al Khaimah,9,GAL
+2023-05-17 00:00:00,Q2 2023,Rent,5964,Bank Transfer,Product Development,Oracle,INV3587,Pending,-298,Sharjah,8,Abu Dhabi Aviation
+2023-05-17 00:00:00,Q2 2023,Utilities,6848,Bank Transfer,Marketing,IBM,INV9882,Rejected,1029,Ajman,3,Etihad Engineering
+2023-05-17 00:00:00,Q2 2023,Rent,8671,Credit Card,Research & Development,Huawei,INV6139,Rejected,133,Umm Al Quwain,9,AMMROC
+2023-05-18 00:00:00,Q2 2023,Software Subscriptions,9096,Credit Card,Marketing,IBM,INV4150,Pending,375,Abu Dhabi,3,GAL
+2023-05-19 00:00:00,Q2 2023,Rent,5718,Credit Card,Research & Development,Salesforce,INV8837,Pending,1180,Fujairah,9,Abu Dhabi Aviation
+2023-05-20 00:00:00,Q2 2023,Salaries,9304,Credit Card,HR,Cisco Systems,INV9775,Pending,989,Abu Dhabi,2,Etihad Engineering
+2023-05-21 00:00:00,Q2 2023,Utilities,5291,Cash,Research & Development,Huawei,INV9793,Approved,366,Abu Dhabi,9,AMMROC
+2023-05-22 00:00:00,Q2 2023,Salaries,4349,Bank Transfer,Product Development,IBM,INV2922,Approved,1253,Fujairah,8,GAL
+2023-05-23 00:00:00,Q2 2023,Maintenance,9974,Credit Card,Research & Development,Cisco Systems,INV8454,Approved,-324,Fujairah,9,Abu Dhabi Aviation
+2023-05-23 00:00:00,Q2 2023,Salaries,7992,Cash,Finance,Microsoft,INV9589,Pending,753,Abu Dhabi,5,Etihad Engineering
+2023-05-23 00:00:00,Q2 2023,Salaries,3656,Credit Card,HR,Huawei,INV1742,Approved,622,Sharjah,2,AMMROC
+2023-05-23 00:00:00,Q2 2023,Salaries,3105,Cash,Product Development,Oracle,INV3363,Approved,350,Ras Al Khaimah,8,GAL
+2023-05-23 00:00:00,Q2 2023,Utilities,3067,Credit Card,Sales,PayPal,INV8993,Pending,-356,Fujairah,6,Abu Dhabi Aviation
+2023-05-23 00:00:00,Q2 2023,Marketing,1222,Cash,Product Development,Alibaba,INV1108,Pending,735,Ras Al Khaimah,8,Etihad Engineering
+2023-05-23 00:00:00,Q2 2023,Salaries,6993,Cash,Finance,Amazon,INV8575,Rejected,1401,Umm Al Quwain,5,AMMROC
+2023-05-25 00:00:00,Q2 2023,Salaries,1764,Credit Card,HR,Accenture,INV4120,Rejected,103,Abu Dhabi,2,GAL
+2023-05-26 00:00:00,Q2 2023,Salaries,4242,Credit Card,Sales,Google,INV9813,Approved,897,Sharjah,6,Abu Dhabi Aviation
+2023-05-27 00:00:00,Q2 2023,Maintenance,706,Credit Card,Finance,Microsoft,INV7154,Rejected,577,Ajman,5,Etihad Engineering
+2023-05-29 00:00:00,Q2 2023,Rent,7729,Bank Transfer,Finance,Alibaba,INV5350,Approved,597,Dubai,5,AMMROC
+2023-05-31 00:00:00,Q2 2023,Marketing,7655,Cash,IT,Tencent,INV9025,Pending,133,Ras Al Khaimah,1,GAL
+2023-05-31 00:00:00,Q2 2023,Marketing,5675,Credit Card,HR,Oracle,INV4267,Rejected,750,Fujairah,2,Abu Dhabi Aviation
+2023-06-01 00:00:00,Q2 2023,Maintenance,6202,Credit Card,Product Development,PayPal,INV7439,Pending,123,Sharjah,8,Etihad Engineering
+2023-06-02 00:00:00,Q2 2023,Maintenance,1953,Cash,Marketing,Amazon,INV3880,Rejected,1036,Umm Al Quwain,3,AMMROC
+2023-06-03 00:00:00,Q2 2023,Software Subscriptions,3869,Bank Transfer,Marketing,Salesforce,INV4621,Approved,-432,Umm Al Quwain,3,GAL
+2023-06-03 00:00:00,Q2 2023,Salaries,5277,Credit Card,Product Development,Adobe Inc.,INV7363,Rejected,-408,Dubai,8,Abu Dhabi Aviation
+2023-06-04 00:00:00,Q2 2023,Salaries,4565,Credit Card,Product Development,Cisco Systems,INV3365,Approved,399,Fujairah,8,Etihad Engineering
+2023-06-06 00:00:00,Q2 2023,Maintenance,512,Cash,HR,Dell Technologies,INV3474,Rejected,1476,Dubai,2,AMMROC
+2023-06-07 00:00:00,Q2 2023,Utilities,9187,Bank Transfer,Product Development,Intuit,INV3390,Pending,138,Dubai,8,GAL
+2023-06-07 00:00:00,Q2 2023,Marketing,1807,Credit Card,IT,Intel,INV9261,Pending,167,Fujairah,1,Abu Dhabi Aviation
+2023-06-09 00:00:00,Q2 2023,Marketing,6646,Cash,Sales,Google,INV8822,Pending,-40,Fujairah,6,Etihad Engineering
+2023-06-10 00:00:00,Q2 2023,Salaries,9263,Cash,Product Development,Amazon,INV4836,Rejected,-317,Ras Al Khaimah,8,AMMROC
+2023-06-10 00:00:00,Q2 2023,Maintenance,5954,Cash,Marketing,Salesforce,INV5888,Rejected,352,Ajman,3,GAL
+2023-06-11 00:00:00,Q2 2023,Salaries,2468,Bank Transfer,Product Development,Huawei,INV1924,Rejected,-368,Abu Dhabi,8,Abu Dhabi Aviation
+2023-06-11 00:00:00,Q2 2023,Software Subscriptions,1248,Bank Transfer,IT,Amazon,INV5923,Approved,1297,Umm Al Quwain,1,Etihad Engineering
+2023-06-11 00:00:00,Q2 2023,Maintenance,7315,Credit Card,Research & Development,Cisco Systems,INV5331,Rejected,1310,Abu Dhabi,9,AMMROC
+2023-06-11 00:00:00,Q2 2023,Maintenance,5156,Cash,Research & Development,Salesforce,INV4684,Rejected,213,Fujairah,9,GAL
+2023-06-15 00:00:00,Q2 2023,Utilities,5955,Bank Transfer,Finance,Dell Technologies,INV8444,Approved,283,Fujairah,5,Abu Dhabi Aviation
+2023-06-16 00:00:00,Q2 2023,Maintenance,3199,Bank Transfer,Operations,Alibaba,INV9734,Rejected,1327,Ajman,4,Etihad Engineering
+2023-06-18 00:00:00,Q2 2023,Software Subscriptions,2604,Cash,Sales,Adobe Inc.,INV8916,Rejected,36,Abu Dhabi,6,AMMROC
+2023-06-19 00:00:00,Q2 2023,Utilities,6906,Cash,Customer Support,Salesforce,INV9777,Rejected,669,Umm Al Quwain,7,GAL
+2023-06-19 00:00:00,Q2 2023,Salaries,3208,Credit Card,Finance,Intuit,INV4590,Rejected,588,Dubai,5,Abu Dhabi Aviation
+2023-06-20 00:00:00,Q2 2023,Rent,3473,Credit Card,Research & Development,IBM,INV3293,Approved,-138,Dubai,9,Etihad Engineering
+2023-06-20 00:00:00,Q2 2023,Software Subscriptions,7353,Cash,Marketing,SAP,INV4350,Pending,596,Ras Al Khaimah,3,AMMROC
+2023-06-22 00:00:00,Q2 2023,Marketing,5493,Bank Transfer,Customer Support,Cisco Systems,INV6456,Rejected,447,Umm Al Quwain,7,GAL
+2023-06-23 00:00:00,Q2 2023,Software Subscriptions,2485,Cash,Finance,Salesforce,INV5285,Pending,208,Umm Al Quwain,5,Abu Dhabi Aviation
+2023-06-23 00:00:00,Q2 2023,Marketing,9819,Credit Card,Customer Support,Intel,INV2489,Pending,496,Sharjah,7,Etihad Engineering
+2023-06-24 00:00:00,Q2 2023,Software Subscriptions,1628,Cash,HR,Intuit,INV1659,Pending,592,Fujairah,2,AMMROC
+2023-06-24 00:00:00,Q2 2023,Maintenance,7626,Credit Card,Operations,IBM,INV8793,Approved,752,Ras Al Khaimah,4,GAL
+2023-06-25 00:00:00,Q2 2023,Marketing,7905,Bank Transfer,HR,HP Inc.,INV7179,Rejected,33,Fujairah,2,Abu Dhabi Aviation
+2023-06-26 00:00:00,Q2 2023,Salaries,9655,Credit Card,Customer Support,Oracle,INV3290,Pending,667,Ajman,7,Etihad Engineering
+2023-06-28 00:00:00,Q2 2023,Maintenance,4969,Bank Transfer,HR,Microsoft,INV3444,Pending,706,Abu Dhabi,2,AMMROC
+2023-06-29 00:00:00,Q2 2023,Maintenance,9808,Credit Card,IT,IBM,INV2113,Approved,562,Abu Dhabi,1,GAL
+2023-06-29 00:00:00,Q2 2023,Utilities,4179,Bank Transfer,Research & Development,Amazon,INV9719,Rejected,-476,Ras Al Khaimah,9,Abu Dhabi Aviation
+2023-07-01 00:00:00,Q3 2023,Software Subscriptions,4987,Credit Card,IT,Dell Technologies,INV4125,Rejected,916,Dubai,1,Etihad Engineering
+2023-07-01 00:00:00,Q3 2023,Utilities,5073,Bank Transfer,Product Development,HP Inc.,INV9281,Pending,-96,Ajman,8,AMMROC
+2023-07-01 00:00:00,Q3 2023,Salaries,2838,Bank Transfer,HR,Microsoft,INV7223,Pending,-136,Dubai,2,GAL
+2023-07-03 00:00:00,Q3 2023,Maintenance,1787,Credit Card,Product Development,SAP,INV7841,Rejected,25,Fujairah,8,Abu Dhabi Aviation
+2023-07-03 00:00:00,Q3 2023,Maintenance,7141,Bank Transfer,Marketing,Dell Technologies,INV9446,Rejected,674,Ajman,3,Etihad Engineering
+2023-07-05 00:00:00,Q3 2023,Software Subscriptions,3943,Credit Card,Sales,Salesforce,INV1272,Rejected,738,Fujairah,6,AMMROC
+2023-07-05 00:00:00,Q3 2023,Utilities,2890,Credit Card,Marketing,IBM,INV5712,Rejected,1458,Abu Dhabi,3,GAL
+2023-07-05 00:00:00,Q3 2023,Software Subscriptions,5272,Bank Transfer,Customer Support,Intel,INV3198,Pending,931,Ras Al Khaimah,7,Abu Dhabi Aviation
+2023-07-06 00:00:00,Q3 2023,Software Subscriptions,6403,Bank Transfer,Research & Development,Alibaba,INV1265,Rejected,-445,Dubai,9,Etihad Engineering
+2023-07-06 00:00:00,Q3 2023,Maintenance,8629,Bank Transfer,HR,Google,INV4968,Approved,1176,Ajman,2,AMMROC
+2023-07-09 00:00:00,Q3 2023,Software Subscriptions,9923,Cash,Finance,Oracle,INV6246,Pending,-493,Umm Al Quwain,5,GAL
+2023-07-09 00:00:00,Q3 2023,Utilities,7127,Credit Card,Sales,Accenture,INV4012,Rejected,1494,Ras Al Khaimah,6,Abu Dhabi Aviation
+2023-07-09 00:00:00,Q3 2023,Rent,9368,Credit Card,Operations,HP Inc.,INV2800,Approved,-331,Abu Dhabi,4,Etihad Engineering
+2023-07-11 00:00:00,Q3 2023,Maintenance,1736,Cash,Operations,SAP,INV1613,Approved,-30,Sharjah,4,AMMROC
+2023-07-11 00:00:00,Q3 2023,Rent,3011,Bank Transfer,Operations,HP Inc.,INV5272,Pending,408,Ajman,4,GAL
+2023-07-13 00:00:00,Q3 2023,Maintenance,3252,Credit Card,HR,Huawei,INV9311,Rejected,434,Ras Al Khaimah,2,Abu Dhabi Aviation
+2023-07-14 00:00:00,Q3 2023,Salaries,7613,Cash,Operations,Amazon,INV8487,Pending,1007,Ras Al Khaimah,4,Etihad Engineering
+2023-07-14 00:00:00,Q3 2023,Marketing,6539,Bank Transfer,IT,Accenture,INV3793,Rejected,776,Ajman,1,AMMROC
+2023-07-14 00:00:00,Q3 2023,Utilities,3544,Credit Card,Sales,Amazon,INV7887,Approved,270,Umm Al Quwain,6,GAL
+2023-07-14 00:00:00,Q3 2023,Salaries,5358,Credit Card,IT,SAP,INV6325,Approved,-1,Umm Al Quwain,1,Abu Dhabi Aviation
+2023-07-15 00:00:00,Q3 2023,Maintenance,8908,Credit Card,Sales,Google,INV2217,Pending,538,Abu Dhabi,6,Etihad Engineering
+2023-07-15 00:00:00,Q3 2023,Rent,9889,Cash,IT,Accenture,INV9700,Approved,-443,Ras Al Khaimah,1,AMMROC
+2023-07-17 00:00:00,Q3 2023,Maintenance,6015,Credit Card,Sales,Google,INV1831,Approved,-367,Sharjah,6,GAL
+2023-07-19 00:00:00,Q3 2023,Utilities,2427,Bank Transfer,Product Development,SAP,INV7266,Approved,829,Abu Dhabi,8,Abu Dhabi Aviation
+2023-07-22 00:00:00,Q3 2023,Rent,7485,Credit Card,HR,Alibaba,INV9011,Rejected,649,Abu Dhabi,2,Etihad Engineering
+2023-07-22 00:00:00,Q3 2023,Salaries,9458,Cash,HR,Amazon,INV4881,Approved,284,Sharjah,2,AMMROC
+2023-07-24 00:00:00,Q3 2023,Rent,963,Cash,Operations,Google,INV1689,Pending,884,Sharjah,4,GAL
+2023-07-24 00:00:00,Q3 2023,Marketing,9661,Credit Card,Marketing,HP Inc.,INV6301,Rejected,231,Fujairah,3,Abu Dhabi Aviation
+2023-07-24 00:00:00,Q3 2023,Rent,5204,Bank Transfer,Operations,Accenture,INV1274,Rejected,-434,Ajman,4,Etihad Engineering
+2023-07-24 00:00:00,Q3 2023,Software Subscriptions,6088,Cash,Customer Support,IBM,INV1990,Approved,311,Umm Al Quwain,7,AMMROC
+2023-07-25 00:00:00,Q3 2023,Marketing,2554,Credit Card,IT,Oracle,INV8932,Pending,-56,Abu Dhabi,1,GAL
+2023-07-25 00:00:00,Q3 2023,Salaries,9535,Bank Transfer,Sales,Intel,INV7698,Pending,173,Dubai,6,Abu Dhabi Aviation
+2023-07-26 00:00:00,Q3 2023,Salaries,7443,Bank Transfer,Marketing,PayPal,INV4943,Approved,-66,Dubai,3,Etihad Engineering
+2023-07-26 00:00:00,Q3 2023,Maintenance,4087,Cash,Customer Support,Tencent,INV9008,Rejected,546,Ras Al Khaimah,7,AMMROC
+2023-07-28 00:00:00,Q3 2023,Utilities,5487,Credit Card,HR,Cisco Systems,INV9180,Approved,25,Fujairah,2,GAL
+2023-07-28 00:00:00,Q3 2023,Utilities,8545,Credit Card,HR,Tencent,INV9653,Approved,1452,Fujairah,2,Abu Dhabi Aviation
+2023-07-28 00:00:00,Q3 2023,Marketing,4742,Bank Transfer,Operations,Accenture,INV2130,Rejected,595,Fujairah,4,Etihad Engineering
+2023-07-30 00:00:00,Q3 2023,Rent,9045,Cash,IT,Alibaba,INV9954,Pending,1274,Umm Al Quwain,1,AMMROC
+2023-07-30 00:00:00,Q3 2023,Rent,2969,Cash,Marketing,Tencent,INV9792,Pending,17,Umm Al Quwain,3,GAL
+2023-07-31 00:00:00,Q3 2023,Marketing,4480,Credit Card,Research & Development,Accenture,INV3756,Approved,1146,Ras Al Khaimah,9,Abu Dhabi Aviation
+2023-08-03 00:00:00,Q3 2023,Marketing,2847,Cash,Customer Support,HP Inc.,INV7453,Approved,217,Ajman,7,Etihad Engineering
+2023-08-03 00:00:00,Q3 2023,Marketing,7071,Cash,Customer Support,Amazon,INV7590,Pending,41,Ras Al Khaimah,7,AMMROC
+2023-08-05 00:00:00,Q3 2023,Salaries,1367,Cash,Operations,Tencent,INV9193,Rejected,384,Abu Dhabi,4,GAL
+2023-08-05 00:00:00,Q3 2023,Software Subscriptions,7049,Credit Card,HR,Intel,INV1741,Pending,865,Dubai,2,Abu Dhabi Aviation
+2023-08-05 00:00:00,Q3 2023,Maintenance,4382,Bank Transfer,Operations,HP Inc.,INV2421,Rejected,458,Dubai,4,Etihad Engineering
+2023-08-05 00:00:00,Q3 2023,Software Subscriptions,1159,Bank Transfer,Sales,Oracle,INV2789,Pending,428,Umm Al Quwain,6,AMMROC
+2023-08-05 00:00:00,Q3 2023,Maintenance,3247,Bank Transfer,Marketing,HP Inc.,INV4113,Rejected,601,Ajman,3,GAL
+2023-08-05 00:00:00,Q3 2023,Marketing,3270,Credit Card,IT,Accenture,INV2314,Rejected,-265,Abu Dhabi,1,Abu Dhabi Aviation
+2023-08-05 00:00:00,Q3 2023,Software Subscriptions,4533,Bank Transfer,Product Development,Microsoft,INV4312,Approved,322,Umm Al Quwain,8,Etihad Engineering
+2023-08-05 00:00:00,Q3 2023,Utilities,3546,Bank Transfer,Finance,SAP,INV8484,Approved,601,Ras Al Khaimah,5,AMMROC
+2023-08-07 00:00:00,Q3 2023,Rent,9927,Credit Card,Finance,Huawei,INV6886,Approved,-151,Ras Al Khaimah,5,GAL
+2023-08-08 00:00:00,Q3 2023,Utilities,1584,Credit Card,Operations,HP Inc.,INV3399,Pending,328,Ajman,4,Abu Dhabi Aviation
+2023-08-09 00:00:00,Q3 2023,Marketing,2939,Credit Card,Sales,Salesforce,INV7781,Pending,1215,Ajman,6,Etihad Engineering
+2023-08-09 00:00:00,Q3 2023,Rent,3061,Cash,Marketing,Microsoft,INV9972,Rejected,-116,Ajman,3,AMMROC
+2023-08-11 00:00:00,Q3 2023,Salaries,5630,Cash,Research & Development,Tencent,INV5706,Pending,1182,Fujairah,9,GAL
+2023-08-13 00:00:00,Q3 2023,Maintenance,7179,Bank Transfer,Finance,Accenture,INV4948,Rejected,1043,Ajman,5,Abu Dhabi Aviation
+2023-08-13 00:00:00,Q3 2023,Maintenance,1834,Bank Transfer,Marketing,SAP,INV7284,Pending,1081,Fujairah,3,Etihad Engineering
+2023-08-15 00:00:00,Q3 2023,Salaries,6717,Bank Transfer,IT,Google,INV7236,Approved,-287,Umm Al Quwain,1,AMMROC
+2023-08-15 00:00:00,Q3 2023,Salaries,5995,Bank Transfer,Sales,Intuit,INV5169,Approved,216,Ras Al Khaimah,6,GAL
+2023-08-18 00:00:00,Q3 2023,Marketing,9246,Bank Transfer,HR,IBM,INV9409,Pending,668,Fujairah,2,Abu Dhabi Aviation
+2023-08-18 00:00:00,Q3 2023,Marketing,289,Cash,Marketing,Microsoft,INV6555,Rejected,907,Sharjah,3,Etihad Engineering
+2023-08-20 00:00:00,Q3 2023,Software Subscriptions,8780,Cash,IT,Huawei,INV8319,Rejected,776,Umm Al Quwain,1,AMMROC
+2023-08-21 00:00:00,Q3 2023,Salaries,3848,Bank Transfer,Research & Development,Intel,INV5676,Approved,964,Abu Dhabi,9,GAL
+2023-08-21 00:00:00,Q3 2023,Maintenance,6963,Cash,Product Development,Google,INV7229,Approved,1042,Ajman,8,Abu Dhabi Aviation
+2023-08-21 00:00:00,Q3 2023,Software Subscriptions,401,Cash,HR,Dell Technologies,INV7184,Approved,1484,Fujairah,2,Etihad Engineering
+2023-08-23 00:00:00,Q3 2023,Utilities,674,Credit Card,Product Development,Google,INV7775,Rejected,45,Abu Dhabi,8,AMMROC
+2023-08-23 00:00:00,Q3 2023,Rent,7609,Credit Card,Research & Development,Dell Technologies,INV3869,Pending,-296,Sharjah,9,GAL
+2023-08-23 00:00:00,Q3 2023,Marketing,7010,Cash,IT,Microsoft,INV8861,Rejected,-328,Ras Al Khaimah,1,Abu Dhabi Aviation
+2023-08-24 00:00:00,Q3 2023,Software Subscriptions,5845,Cash,Finance,Adobe Inc.,INV4791,Approved,213,Fujairah,5,Etihad Engineering
+2023-08-24 00:00:00,Q3 2023,Software Subscriptions,9770,Bank Transfer,Product Development,Amazon,INV7438,Approved,1216,Ras Al Khaimah,8,AMMROC
+2023-08-25 00:00:00,Q3 2023,Utilities,1793,Cash,HR,IBM,INV6049,Rejected,-500,Dubai,2,GAL
+2023-08-25 00:00:00,Q3 2023,Marketing,9787,Cash,Operations,Huawei,INV4397,Approved,865,Dubai,4,Abu Dhabi Aviation
+2023-08-28 00:00:00,Q3 2023,Rent,1056,Credit Card,Customer Support,SAP,INV3455,Rejected,-25,Fujairah,7,Etihad Engineering
+2023-08-28 00:00:00,Q3 2023,Maintenance,3727,Cash,Marketing,Amazon,INV4814,Pending,184,Ras Al Khaimah,3,AMMROC
+2023-08-29 00:00:00,Q3 2023,Software Subscriptions,3367,Credit Card,Finance,Adobe Inc.,INV1104,Rejected,1154,Ras Al Khaimah,5,GAL
+2023-08-31 00:00:00,Q3 2023,Salaries,5639,Cash,Product Development,PayPal,INV2341,Pending,294,Dubai,8,Abu Dhabi Aviation
+2023-08-31 00:00:00,Q3 2023,Marketing,4299,Bank Transfer,Marketing,Oracle,INV8319,Rejected,984,Abu Dhabi,3,Etihad Engineering
+2023-09-01 00:00:00,Q3 2023,Software Subscriptions,297,Cash,Operations,Cisco Systems,INV4164,Approved,368,Ajman,4,AMMROC
+2023-09-02 00:00:00,Q3 2023,Rent,1995,Bank Transfer,Research & Development,Accenture,INV9715,Approved,-66,Abu Dhabi,9,GAL
+2023-09-04 00:00:00,Q3 2023,Utilities,8308,Credit Card,Customer Support,PayPal,INV1519,Rejected,-347,Umm Al Quwain,7,Abu Dhabi Aviation
+2023-09-06 00:00:00,Q3 2023,Utilities,1254,Bank Transfer,IT,Alibaba,INV7813,Rejected,352,Ras Al Khaimah,1,Etihad Engineering
+2023-09-06 00:00:00,Q3 2023,Salaries,9058,Credit Card,Operations,Cisco Systems,INV8518,Rejected,1171,Umm Al Quwain,4,AMMROC
+2023-09-06 00:00:00,Q3 2023,Rent,7779,Credit Card,Operations,SAP,INV8734,Rejected,1074,Abu Dhabi,4,GAL
+2023-09-07 00:00:00,Q3 2023,Marketing,290,Credit Card,Research & Development,Huawei,INV2943,Rejected,262,Dubai,9,Abu Dhabi Aviation
+2023-09-08 00:00:00,Q3 2023,Rent,7492,Credit Card,Sales,Intel,INV9901,Approved,467,Umm Al Quwain,6,Etihad Engineering
+2023-09-08 00:00:00,Q3 2023,Marketing,4170,Cash,Research & Development,Amazon,INV4422,Rejected,23,Fujairah,9,AMMROC
+2023-09-10 00:00:00,Q3 2023,Marketing,6119,Cash,Sales,Cisco Systems,INV5201,Pending,-153,Sharjah,6,GAL
+2023-09-13 00:00:00,Q3 2023,Rent,1128,Credit Card,Sales,Intuit,INV4396,Approved,-462,Fujairah,6,Abu Dhabi Aviation
+2023-09-14 00:00:00,Q3 2023,Software Subscriptions,8094,Cash,Finance,SAP,INV4804,Pending,756,Abu Dhabi,5,Etihad Engineering
+2023-09-15 00:00:00,Q3 2023,Marketing,2833,Credit Card,Finance,Amazon,INV7214,Pending,-398,Fujairah,5,AMMROC
+2023-09-16 00:00:00,Q3 2023,Software Subscriptions,3443,Credit Card,HR,Tencent,INV8854,Pending,-268,Abu Dhabi,2,GAL
+2023-09-16 00:00:00,Q3 2023,Utilities,4655,Bank Transfer,Product Development,Salesforce,INV2204,Pending,-105,Abu Dhabi,8,Abu Dhabi Aviation
+2023-09-17 00:00:00,Q3 2023,Rent,3404,Bank Transfer,Product Development,Intuit,INV1611,Rejected,1049,Fujairah,8,Etihad Engineering
+2023-09-17 00:00:00,Q3 2023,Rent,1391,Credit Card,IT,Dell Technologies,INV7504,Approved,1089,Fujairah,1,AMMROC
+2023-09-17 00:00:00,Q3 2023,Maintenance,104,Bank Transfer,Product Development,PayPal,INV6222,Rejected,-390,Dubai,8,GAL
+2023-09-18 00:00:00,Q3 2023,Software Subscriptions,1786,Bank Transfer,Finance,Amazon,INV6671,Approved,237,Abu Dhabi,5,Abu Dhabi Aviation
+2023-09-18 00:00:00,Q3 2023,Maintenance,5216,Credit Card,HR,Google,INV8247,Rejected,1496,Umm Al Quwain,2,Etihad Engineering
+2023-09-18 00:00:00,Q3 2023,Marketing,5173,Cash,HR,Google,INV1194,Pending,917,Ras Al Khaimah,2,AMMROC
+2023-09-21 00:00:00,Q3 2023,Maintenance,7500,Bank Transfer,Sales,Amazon,INV8834,Rejected,-277,Ras Al Khaimah,6,GAL
+2023-09-22 00:00:00,Q3 2023,Rent,1943,Credit Card,Research & Development,Huawei,INV4858,Rejected,1070,Umm Al Quwain,9,Abu Dhabi Aviation
+2023-09-25 00:00:00,Q3 2023,Maintenance,4880,Bank Transfer,IT,Intuit,INV4559,Approved,-420,Umm Al Quwain,1,Etihad Engineering
+2023-09-28 00:00:00,Q3 2023,Salaries,9974,Cash,Sales,Huawei,INV7761,Approved,718,Dubai,6,AMMROC
+2023-09-28 00:00:00,Q3 2023,Rent,8900,Bank Transfer,Research & Development,Cisco Systems,INV9442,Pending,1446,Umm Al Quwain,9,GAL
+2023-09-28 00:00:00,Q3 2023,Maintenance,9655,Credit Card,Product Development,Google,INV1860,Pending,171,Ajman,8,Abu Dhabi Aviation
+2023-09-29 00:00:00,Q3 2023,Software Subscriptions,3963,Bank Transfer,Sales,Microsoft,INV4762,Approved,945,Ajman,6,Etihad Engineering
+2023-09-29 00:00:00,Q3 2023,Software Subscriptions,4837,Credit Card,Marketing,IBM,INV2758,Pending,535,Dubai,3,AMMROC
+2023-09-30 00:00:00,Q3 2023,Maintenance,2427,Bank Transfer,Product Development,Intuit,INV4050,Rejected,839,Sharjah,8,GAL
+2023-10-01 00:00:00,Q4 2023,Salaries,5563,Credit Card,Research & Development,Microsoft,INV2020,Rejected,1019,Abu Dhabi,9,Abu Dhabi Aviation
+2023-10-02 00:00:00,Q4 2023,Rent,875,Bank Transfer,IT,Intuit,INV5902,Approved,565,Ras Al Khaimah,1,Etihad Engineering
+2023-10-02 00:00:00,Q4 2023,Marketing,6876,Bank Transfer,Research & Development,Tencent,INV1084,Approved,736,Ras Al Khaimah,9,AMMROC
+2023-10-02 00:00:00,Q4 2023,Software Subscriptions,4655,Cash,Sales,Intuit,INV3161,Rejected,-418,Sharjah,6,GAL
+2023-10-02 00:00:00,Q4 2023,Marketing,9979,Bank Transfer,Sales,Amazon,INV5501,Approved,-392,Dubai,6,Abu Dhabi Aviation
+2023-10-03 00:00:00,Q4 2023,Rent,5791,Cash,Operations,Amazon,INV7244,Approved,1494,Fujairah,4,Etihad Engineering
+2023-10-03 00:00:00,Q4 2023,Marketing,6077,Credit Card,IT,Dell Technologies,INV7220,Rejected,1183,Sharjah,1,AMMROC
+2023-10-04 00:00:00,Q4 2023,Utilities,759,Credit Card,Product Development,SAP,INV2562,Pending,724,Ras Al Khaimah,8,GAL
+2023-10-04 00:00:00,Q4 2023,Utilities,6395,Bank Transfer,HR,Intel,INV8714,Rejected,-438,Ajman,2,Abu Dhabi Aviation
+2023-10-04 00:00:00,Q4 2023,Salaries,798,Bank Transfer,IT,Google,INV5888,Pending,470,Sharjah,1,Etihad Engineering
+2023-10-04 00:00:00,Q4 2023,Marketing,9251,Credit Card,HR,HP Inc.,INV7941,Pending,-13,Ras Al Khaimah,2,AMMROC
+2023-10-05 00:00:00,Q4 2023,Salaries,8419,Credit Card,IT,Google,INV1056,Rejected,730,Sharjah,1,GAL
+2023-10-06 00:00:00,Q4 2023,Marketing,8087,Credit Card,IT,IBM,INV4692,Pending,399,Abu Dhabi,1,Abu Dhabi Aviation
+2023-10-07 00:00:00,Q4 2023,Salaries,8422,Credit Card,Research & Development,PayPal,INV6992,Approved,95,Ras Al Khaimah,9,Etihad Engineering
+2023-10-07 00:00:00,Q4 2023,Marketing,2147,Credit Card,IT,IBM,INV2584,Rejected,1319,Fujairah,1,AMMROC
+2023-10-07 00:00:00,Q4 2023,Utilities,7005,Cash,Operations,Intel,INV2615,Rejected,303,Abu Dhabi,4,GAL
+2023-10-09 00:00:00,Q4 2023,Software Subscriptions,7225,Credit Card,Sales,Accenture,INV3875,Approved,-460,Ras Al Khaimah,6,Abu Dhabi Aviation
+2023-10-09 00:00:00,Q4 2023,Software Subscriptions,3454,Credit Card,Customer Support,Intel,INV1049,Approved,1295,Fujairah,7,Etihad Engineering
+2023-10-10 00:00:00,Q4 2023,Rent,2579,Credit Card,HR,Intuit,INV8639,Pending,-262,Ras Al Khaimah,2,AMMROC
+2023-10-10 00:00:00,Q4 2023,Maintenance,4043,Bank Transfer,Sales,Huawei,INV9721,Pending,746,Sharjah,6,GAL
+2023-10-10 00:00:00,Q4 2023,Marketing,9640,Cash,Customer Support,SAP,INV7073,Approved,1390,Umm Al Quwain,7,Abu Dhabi Aviation
+2023-10-11 00:00:00,Q4 2023,Software Subscriptions,930,Bank Transfer,HR,Adobe Inc.,INV3196,Approved,166,Ras Al Khaimah,2,Etihad Engineering
+2023-10-11 00:00:00,Q4 2023,Utilities,8255,Credit Card,HR,Google,INV2017,Rejected,-51,Fujairah,2,AMMROC
+2023-10-11 00:00:00,Q4 2023,Maintenance,7660,Bank Transfer,Customer Support,Oracle,INV7079,Pending,1312,Fujairah,7,GAL
+2023-10-11 00:00:00,Q4 2023,Rent,1763,Bank Transfer,IT,Google,INV7771,Rejected,1352,Umm Al Quwain,1,Abu Dhabi Aviation
+2023-10-12 00:00:00,Q4 2023,Utilities,5188,Credit Card,Product Development,Cisco Systems,INV3178,Rejected,489,Sharjah,8,Etihad Engineering
+2023-10-13 00:00:00,Q4 2023,Utilities,5992,Credit Card,Marketing,Google,INV6140,Pending,-284,Dubai,3,AMMROC
+2023-10-14 00:00:00,Q4 2023,Maintenance,5832,Cash,Sales,Adobe Inc.,INV5026,Approved,165,Sharjah,6,GAL
+2023-10-15 00:00:00,Q4 2023,Utilities,8766,Bank Transfer,Research & Development,Huawei,INV8378,Approved,1438,Ras Al Khaimah,9,Abu Dhabi Aviation
+2023-10-15 00:00:00,Q4 2023,Salaries,7521,Cash,Sales,PayPal,INV6053,Pending,-394,Fujairah,6,Etihad Engineering
+2023-10-15 00:00:00,Q4 2023,Rent,5234,Bank Transfer,Research & Development,Dell Technologies,INV9899,Approved,581,Umm Al Quwain,9,AMMROC
+2023-10-16 00:00:00,Q4 2023,Maintenance,3954,Bank Transfer,Customer Support,Dell Technologies,INV9120,Approved,1270,Abu Dhabi,7,GAL
+2023-10-17 00:00:00,Q4 2023,Utilities,8092,Bank Transfer,Research & Development,Amazon,INV9843,Pending,1086,Fujairah,9,Abu Dhabi Aviation
+2023-10-18 00:00:00,Q4 2023,Maintenance,3610,Bank Transfer,HR,Dell Technologies,INV2845,Pending,871,Ras Al Khaimah,2,Etihad Engineering
+2023-10-18 00:00:00,Q4 2023,Marketing,9862,Bank Transfer,Product Development,Intuit,INV5890,Pending,-410,Ras Al Khaimah,8,AMMROC
+2023-10-19 00:00:00,Q4 2023,Utilities,5696,Credit Card,Product Development,Salesforce,INV2102,Pending,831,Abu Dhabi,8,GAL
+2023-10-20 00:00:00,Q4 2023,Software Subscriptions,9988,Bank Transfer,HR,Tencent,INV4578,Rejected,1377,Umm Al Quwain,2,Abu Dhabi Aviation
+2023-10-23 00:00:00,Q4 2023,Software Subscriptions,8089,Bank Transfer,Operations,Tencent,INV7035,Pending,232,Sharjah,4,Etihad Engineering
+2023-10-23 00:00:00,Q4 2023,Utilities,1748,Cash,Customer Support,Microsoft,INV5054,Approved,326,Ras Al Khaimah,7,AMMROC
+2023-10-24 00:00:00,Q4 2023,Maintenance,3494,Credit Card,Operations,IBM,INV4648,Pending,418,Abu Dhabi,4,GAL
+2023-10-24 00:00:00,Q4 2023,Maintenance,2906,Cash,Operations,IBM,INV1550,Pending,-335,Abu Dhabi,4,Abu Dhabi Aviation
+2023-10-26 00:00:00,Q4 2023,Software Subscriptions,7958,Bank Transfer,Sales,Salesforce,INV5758,Approved,394,Sharjah,6,Etihad Engineering
+2023-10-26 00:00:00,Q4 2023,Salaries,9307,Bank Transfer,Sales,HP Inc.,INV4328,Rejected,124,Sharjah,6,AMMROC
+2023-10-26 00:00:00,Q4 2023,Salaries,3050,Credit Card,Marketing,Alibaba,INV4839,Approved,629,Ajman,3,GAL
+2023-10-27 00:00:00,Q4 2023,Maintenance,5542,Credit Card,Research & Development,Oracle,INV7948,Pending,-426,Ras Al Khaimah,9,Abu Dhabi Aviation
+2023-10-27 00:00:00,Q4 2023,Maintenance,7135,Cash,HR,Salesforce,INV6654,Approved,-45,Dubai,2,Etihad Engineering
+2023-10-29 00:00:00,Q4 2023,Utilities,1902,Cash,Sales,IBM,INV4871,Pending,1444,Sharjah,6,AMMROC
+2023-10-29 00:00:00,Q4 2023,Maintenance,6716,Cash,Customer Support,SAP,INV8625,Rejected,323,Sharjah,7,GAL
+2023-10-29 00:00:00,Q4 2023,Rent,2834,Bank Transfer,Research & Development,Salesforce,INV6990,Approved,1087,Ras Al Khaimah,9,Abu Dhabi Aviation
+2023-10-30 00:00:00,Q4 2023,Software Subscriptions,869,Cash,Marketing,Huawei,INV6995,Rejected,228,Dubai,3,Etihad Engineering
+2023-11-01 00:00:00,Q4 2023,Rent,637,Bank Transfer,Marketing,Oracle,INV8314,Approved,1004,Ajman,3,AMMROC
+2023-11-01 00:00:00,Q4 2023,Maintenance,1509,Bank Transfer,Customer Support,Amazon,INV2848,Pending,1373,Sharjah,7,GAL
+2023-11-02 00:00:00,Q4 2023,Maintenance,6768,Cash,Operations,Salesforce,INV4920,Pending,433,Umm Al Quwain,4,Abu Dhabi Aviation
+2023-11-02 00:00:00,Q4 2023,Marketing,2793,Cash,Product Development,Intuit,INV4697,Approved,1079,Dubai,8,Etihad Engineering
+2023-11-03 00:00:00,Q4 2023,Maintenance,8264,Bank Transfer,Customer Support,Salesforce,INV5662,Approved,235,Fujairah,7,AMMROC
+2023-11-05 00:00:00,Q4 2023,Marketing,3485,Cash,Finance,Oracle,INV7329,Pending,-56,Abu Dhabi,5,GAL
+2023-11-06 00:00:00,Q4 2023,Rent,1181,Bank Transfer,Customer Support,Oracle,INV1844,Pending,181,Fujairah,7,Abu Dhabi Aviation
+2023-11-06 00:00:00,Q4 2023,Maintenance,6335,Bank Transfer,Marketing,Google,INV6373,Rejected,68,Sharjah,3,Etihad Engineering
+2023-11-07 00:00:00,Q4 2023,Salaries,9439,Credit Card,HR,SAP,INV6372,Pending,1,Sharjah,2,AMMROC
+2023-11-08 00:00:00,Q4 2023,Marketing,164,Credit Card,Sales,PayPal,INV7723,Rejected,945,Umm Al Quwain,6,GAL
+2023-11-08 00:00:00,Q4 2023,Marketing,3681,Credit Card,HR,Cisco Systems,INV9116,Rejected,1409,Sharjah,2,Abu Dhabi Aviation
+2023-11-10 00:00:00,Q4 2023,Marketing,735,Cash,Marketing,Salesforce,INV8586,Rejected,1219,Fujairah,3,Etihad Engineering
+2023-11-13 00:00:00,Q4 2023,Rent,1121,Bank Transfer,Sales,Oracle,INV8780,Approved,686,Dubai,6,AMMROC
+2023-11-14 00:00:00,Q4 2023,Software Subscriptions,1941,Cash,Finance,Microsoft,INV5009,Rejected,858,Abu Dhabi,5,GAL
+2023-11-14 00:00:00,Q4 2023,Utilities,8102,Bank Transfer,Product Development,Intel,INV6530,Pending,198,Fujairah,8,Abu Dhabi Aviation
+2023-11-15 00:00:00,Q4 2023,Marketing,4877,Credit Card,Research & Development,Huawei,INV7999,Pending,-375,Dubai,9,Etihad Engineering
+2023-11-17 00:00:00,Q4 2023,Rent,5332,Cash,Marketing,Intel,INV7846,Approved,938,Ras Al Khaimah,3,AMMROC
+2023-11-18 00:00:00,Q4 2023,Marketing,3173,Credit Card,Marketing,Huawei,INV5911,Approved,656,Abu Dhabi,3,GAL
+2023-11-18 00:00:00,Q4 2023,Maintenance,1778,Bank Transfer,Marketing,Oracle,INV5442,Approved,892,Ras Al Khaimah,3,Abu Dhabi Aviation
+2023-11-20 00:00:00,Q4 2023,Salaries,8915,Bank Transfer,Sales,Intel,INV6095,Pending,528,Sharjah,6,Etihad Engineering
+2023-11-21 00:00:00,Q4 2023,Utilities,3772,Credit Card,IT,IBM,INV4082,Pending,1036,Umm Al Quwain,1,AMMROC
+2023-11-21 00:00:00,Q4 2023,Marketing,8230,Cash,Customer Support,Alibaba,INV4470,Pending,1468,Abu Dhabi,7,GAL
+2023-11-22 00:00:00,Q4 2023,Maintenance,8016,Credit Card,IT,Amazon,INV3421,Pending,697,Abu Dhabi,1,Abu Dhabi Aviation
+2023-11-22 00:00:00,Q4 2023,Marketing,8106,Credit Card,Finance,Alibaba,INV9221,Rejected,-162,Sharjah,5,Etihad Engineering
+2023-11-23 00:00:00,Q4 2023,Salaries,9535,Cash,Product Development,Adobe Inc.,INV4921,Rejected,-252,Sharjah,8,AMMROC
+2023-11-24 00:00:00,Q4 2023,Rent,6836,Bank Transfer,Operations,IBM,INV9609,Approved,10,Dubai,4,GAL
+2023-11-24 00:00:00,Q4 2023,Rent,7370,Bank Transfer,Finance,Google,INV9108,Rejected,1048,Ras Al Khaimah,5,Abu Dhabi Aviation
+2023-11-24 00:00:00,Q4 2023,Marketing,6685,Credit Card,Operations,Tencent,INV1595,Rejected,896,Sharjah,4,Etihad Engineering
+2023-11-25 00:00:00,Q4 2023,Rent,1671,Cash,Operations,Huawei,INV7739,Rejected,1103,Sharjah,4,AMMROC
+2023-11-25 00:00:00,Q4 2023,Salaries,9574,Credit Card,Product Development,HP Inc.,INV7666,Rejected,263,Umm Al Quwain,8,GAL
+2023-11-26 00:00:00,Q4 2023,Marketing,602,Cash,HR,Amazon,INV6194,Rejected,974,Umm Al Quwain,2,Abu Dhabi Aviation
+2023-11-27 00:00:00,Q4 2023,Utilities,4593,Cash,IT,Dell Technologies,INV8239,Pending,1393,Fujairah,1,Etihad Engineering
+2023-11-27 00:00:00,Q4 2023,Salaries,4246,Cash,Marketing,SAP,INV9540,Rejected,483,Ras Al Khaimah,3,AMMROC
+2023-11-28 00:00:00,Q4 2023,Salaries,5376,Cash,Research & Development,Cisco Systems,INV7765,Rejected,-472,Fujairah,9,GAL
+2023-11-29 00:00:00,Q4 2023,Marketing,8438,Cash,Operations,Cisco Systems,INV1111,Approved,424,Umm Al Quwain,4,Abu Dhabi Aviation
+2023-11-29 00:00:00,Q4 2023,Software Subscriptions,2658,Bank Transfer,Finance,Intel,INV2946,Approved,-236,Ras Al Khaimah,5,Etihad Engineering
+2023-11-30 00:00:00,Q4 2023,Maintenance,7122,Cash,HR,Alibaba,INV1742,Rejected,380,Fujairah,2,AMMROC
+2023-12-01 00:00:00,Q4 2023,Marketing,7044,Credit Card,Operations,Dell Technologies,INV9525,Pending,1168,Ajman,4,GAL
+2023-12-01 00:00:00,Q4 2023,Software Subscriptions,1793,Cash,HR,Alibaba,INV1944,Approved,-220,Sharjah,2,Abu Dhabi Aviation
+2023-12-02 00:00:00,Q4 2023,Maintenance,3940,Bank Transfer,HR,Dell Technologies,INV5735,Pending,1054,Ras Al Khaimah,2,Etihad Engineering
+2023-12-03 00:00:00,Q4 2023,Maintenance,5725,Bank Transfer,Operations,Dell Technologies,INV8191,Pending,258,Ras Al Khaimah,4,AMMROC
+2023-12-04 00:00:00,Q4 2023,Maintenance,7264,Bank Transfer,Sales,Microsoft,INV8471,Approved,997,Abu Dhabi,6,GAL
+2023-12-04 00:00:00,Q4 2023,Marketing,7877,Credit Card,Customer Support,Google,INV5833,Pending,231,Ras Al Khaimah,7,Abu Dhabi Aviation
+2023-12-04 00:00:00,Q4 2023,Rent,2300,Credit Card,Marketing,Tencent,INV2011,Approved,10,Ajman,3,Etihad Engineering
+2023-12-05 00:00:00,Q4 2023,Software Subscriptions,9431,Bank Transfer,Marketing,Microsoft,INV6697,Rejected,1257,Ras Al Khaimah,3,AMMROC
+2023-12-05 00:00:00,Q4 2023,Salaries,4397,Bank Transfer,Sales,Cisco Systems,INV1436,Approved,87,Umm Al Quwain,6,GAL
+2023-12-06 00:00:00,Q4 2023,Maintenance,9661,Bank Transfer,Marketing,Huawei,INV4978,Approved,171,Ajman,3,Abu Dhabi Aviation
+2023-12-08 00:00:00,Q4 2023,Rent,4100,Cash,HR,HP Inc.,INV6404,Approved,739,Dubai,2,Etihad Engineering
+2023-12-08 00:00:00,Q4 2023,Software Subscriptions,8411,Bank Transfer,Product Development,Adobe Inc.,INV9683,Rejected,718,Sharjah,8,AMMROC
+2023-12-09 00:00:00,Q4 2023,Software Subscriptions,2182,Credit Card,Finance,Google,INV9000,Rejected,1031,Ajman,5,GAL
+2023-12-09 00:00:00,Q4 2023,Salaries,2355,Bank Transfer,IT,HP Inc.,INV7121,Rejected,1302,Dubai,1,Abu Dhabi Aviation
+2023-12-09 00:00:00,Q4 2023,Rent,4595,Bank Transfer,Marketing,HP Inc.,INV5739,Pending,-363,Umm Al Quwain,3,Etihad Engineering
+2023-12-10 00:00:00,Q4 2023,Marketing,6431,Bank Transfer,Product Development,Alibaba,INV8225,Rejected,294,Ras Al Khaimah,8,AMMROC
+2023-12-10 00:00:00,Q4 2023,Maintenance,2086,Cash,Operations,PayPal,INV5064,Rejected,251,Ajman,4,GAL
+2023-12-10 00:00:00,Q4 2023,Marketing,953,Credit Card,Customer Support,Alibaba,INV3347,Approved,1375,Ras Al Khaimah,7,Abu Dhabi Aviation
+2023-12-11 00:00:00,Q4 2023,Maintenance,5799,Bank Transfer,HR,Intel,INV6375,Rejected,1386,Abu Dhabi,2,Etihad Engineering
+2023-12-12 00:00:00,Q4 2023,Software Subscriptions,8196,Bank Transfer,Customer Support,Oracle,INV7868,Pending,858,Dubai,7,AMMROC
+2023-12-13 00:00:00,Q4 2023,Marketing,5678,Credit Card,Finance,Accenture,INV5333,Approved,-439,Umm Al Quwain,5,GAL
+2023-12-14 00:00:00,Q4 2023,Salaries,2243,Cash,Finance,Microsoft,INV9673,Rejected,-268,Dubai,5,Abu Dhabi Aviation
+2023-12-15 00:00:00,Q4 2023,Salaries,5692,Credit Card,Sales,Oracle,INV8739,Pending,672,Abu Dhabi,6,Etihad Engineering
+2023-12-15 00:00:00,Q4 2023,Marketing,4736,Credit Card,Research & Development,HP Inc.,INV3249,Pending,323,Umm Al Quwain,9,AMMROC
+2023-12-16 00:00:00,Q4 2023,Maintenance,2527,Bank Transfer,Sales,Intel,INV3497,Approved,-473,Ajman,6,GAL
+2023-12-16 00:00:00,Q4 2023,Maintenance,1406,Credit Card,Product Development,HP Inc.,INV3252,Approved,385,Fujairah,8,Abu Dhabi Aviation
+2023-12-16 00:00:00,Q4 2023,Utilities,7308,Credit Card,Customer Support,Adobe Inc.,INV3481,Pending,1040,Sharjah,7,Etihad Engineering
+2023-12-17 00:00:00,Q4 2023,Rent,6284,Credit Card,Research & Development,Microsoft,INV8531,Rejected,655,Dubai,9,AMMROC
+2023-12-18 00:00:00,Q4 2023,Salaries,659,Bank Transfer,Operations,Intel,INV2192,Rejected,337,Fujairah,4,GAL
+2023-12-19 00:00:00,Q4 2023,Rent,491,Credit Card,HR,Amazon,INV7173,Approved,850,Ajman,2,Abu Dhabi Aviation
+2023-12-20 00:00:00,Q4 2023,Rent,2949,Credit Card,Customer Support,Alibaba,INV9147,Rejected,-164,Dubai,7,Etihad Engineering
+2023-12-20 00:00:00,Q4 2023,Maintenance,2911,Bank Transfer,Sales,Oracle,INV4027,Pending,428,Ras Al Khaimah,6,AMMROC
+2023-12-23 00:00:00,Q4 2023,Salaries,799,Bank Transfer,IT,HP Inc.,INV9835,Rejected,-112,Dubai,1,GAL
+2023-12-24 00:00:00,Q4 2023,Marketing,7834,Cash,Research & Development,Intuit,INV7576,Pending,-357,Fujairah,9,Abu Dhabi Aviation
+2023-12-26 00:00:00,Q4 2023,Marketing,7949,Cash,Research & Development,IBM,INV3108,Pending,-46,Ras Al Khaimah,9,Etihad Engineering
+2023-12-26 00:00:00,Q4 2023,Marketing,8784,Bank Transfer,HR,Adobe Inc.,INV7861,Pending,717,Ras Al Khaimah,2,AMMROC
+2023-12-26 00:00:00,Q4 2023,Utilities,517,Bank Transfer,Marketing,PayPal,INV9584,Pending,238,Ras Al Khaimah,3,GAL
+2023-12-27 00:00:00,Q4 2023,Rent,6899,Cash,Finance,Salesforce,INV5927,Pending,-141,Umm Al Quwain,5,Abu Dhabi Aviation
+2023-12-27 00:00:00,Q4 2023,Maintenance,6973,Cash,Finance,Adobe Inc.,INV2795,Rejected,1366,Sharjah,5,Etihad Engineering
+2023-12-28 00:00:00,Q4 2023,Salaries,6584,Bank Transfer,IT,Oracle,INV9743,Approved,579,Umm Al Quwain,1,AMMROC
+2023-12-29 00:00:00,Q4 2023,Utilities,6387,Credit Card,Product Development,Oracle,INV9233,Pending,376,Sharjah,8,GAL

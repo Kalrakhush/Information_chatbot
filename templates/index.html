@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Business Idea Assistant</title>
+</head>
+<body>
+    <h1>Business Idea Assistant 🤖</h1>
+    <form method="post">
+        <label for="prompt">How can I help you?</label>
+        <input type="text" id="prompt" name="prompt">
+        <input type="submit" value="Ask">
+    </form>
+    {% if chat_history %}
+        <h2>Chat History</h2>
+        <ul>
+            {% for chat in chat_history %}
+                <li>Question: {{ chat.question }}</li>
+                <li>Response: {{ chat.response }}</li>
+                <hr>
+            {% endfor %}
+        </ul>
+    {% endif %}
+</body>
+</html>

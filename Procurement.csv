@@ -1,0 +1,501 @@
+Department ID,Supplier ID,Supplier Name,PO Amount,Item Name,Item Category,Quantity,Unit Price,Contract Leakage Amount,Savings Achieved,Supplier Performance Rating,Supplier Concentration Risk,PO Date
+7,1,Secure IT Systems,7227.72,Desktop Computer,Electronics,55,1941.82,368.77,436.87,Very Good,Low,24-10-2023 03:50
+4,2,Acme Corp,5075.84,Mobile Phone,Electronics,97,532.72,132.86,115.76,Very Good,High,13-05-2023 00:46
+8,3,Rapid Delivery Services,4090.88,Consulting Service,Professional Services,18,550.42,320.22,319.73,Poor,Medium,30-12-2023 06:29
+5,4,Advanced Engineering,7198.3,Packaging Material,Packaging,63,951.07,252.19,847.79,Good,Very High,27-07-2023 21:29
+7,5,Secure IT Systems,2862.88,Projector,Electronics,92,1967.84,290.91,878.15,Poor,High,01-07-2023 15:14
+3,6,Oceanic Transports,3637.4,3D Printer,Electronics,47,545.23,420.67,791.67,Fair,Low,15-09-2023 11:58
+7,7,EcoFriendly Products,4627.29,Electric Motor,Industrial Equipment,75,819.87,208.15,201.8,Poor,Low,17-08-2023 07:41
+8,8,Green Energy Ltd,2909.98,Pen,Office Supplies,57,1784.05,387.75,815.96,Good,Medium,23-05-2023 05:52
+5,9,Rapid Delivery Services,4349.42,Desk Lamp,Lighting,45,15.81,216.8,926.81,Fair,Low,23-08-2023 21:15
+4,10,Efficient Lighting,5928.99,Safety Goggles,Safety and Health,33,89.13,183.4,640.55,Excellent,Very Low,21-02-2023 01:29
+8,11,Rapid Delivery Services,7539.25,Printer,Electronics,17,1212.1,479.73,946.79,Excellent,Very High,30-06-2023 04:13
+8,12,Secure IT Systems,7788.35,Software License,IT and Services,70,1815.69,100.34,844.15,Good,High,16-04-2023 18:31
+3,13,Oceanic Transports,8316.51,Software License,IT and Services,4,485.32,54.27,700.27,Poor,Very High,18-03-2023 14:14
+6,14,Urban Construction,7570.01,Packaging Material,Packaging,20,944.59,387.78,619.47,Very Good,Medium,11-07-2023 02:50
+5,15,Mountain Outdoor Gear,6969.87,Packaging Material,Packaging,47,906.43,43.44,413.72,Good,High,04-08-2023 04:34
+2,16,HealthPlus Supplies,2756.31,Electric Motor,Industrial Equipment,91,951.21,420.17,243.36,Fair,High,20-02-2023 07:59
+8,17,Premier Food Distributors,4302.12,Scanner,Electronics,15,1248.81,224.22,644.46,Fair,Very Low,09-12-2023 02:47
+6,18,Rapid Delivery Services,5038.29,Electric Motor,Industrial Equipment,70,944.79,458.6,386.3,Excellent,Medium,21-05-2023 01:20
+2,19,Precision Tools,1287.47,Scanner,Electronics,47,900.46,363.55,879.79,Fair,Low,18-02-2023 20:58
+5,20,Green Energy Ltd,5519.52,Office Chair,Furniture,78,953.83,309.1,994,Good,Very Low,26-12-2023 14:57
+1,21,Oceanic Transports,4645.19,Pen,Office Supplies,75,1185.83,475.16,777.18,Fair,Very Low,10-08-2023 18:07
+6,22,Secure IT Systems,8120.04,Packaging Material,Packaging,9,1078.64,204.36,181.43,Good,Very High,07-02-2023 04:51
+9,23,Automotive Parts Co.,9790.06,Scanner,Electronics,90,1709.73,477.5,359.82,Very Good,Very High,27-09-2023 04:05
+1,24,Precision Tools,5782.05,Office Chair,Furniture,16,108.5,76.15,198.2,Excellent,Very High,22-09-2023 01:32
+3,25,Automotive Parts Co.,3565.52,Consulting Service,Professional Services,69,1668.3,247.04,685.46,Fair,Very Low,27-07-2023 03:59
+7,26,Automotive Parts Co.,912.31,Mobile Phone,Electronics,61,1689.41,142.26,788.67,Good,Low,22-10-2023 16:50
+4,27,Efficient Lighting,9284.11,Scanner,Electronics,10,576.97,274.52,933.11,Poor,High,12-12-2023 00:49
+9,28,NextGen Electronics,9231.6,Consulting Service,Professional Services,50,931.08,89.39,494.36,Excellent,Very High,31-08-2023 21:50
+3,29,Rapid Delivery Services,2903.41,Printer,Electronics,3,882.69,422.35,911.24,Very Good,Low,06-01-2023 20:03
+5,30,Automotive Parts Co.,7106.41,Pen,Office Supplies,77,444.83,424.74,890.1,Good,Medium,02-07-2023 08:45
+3,31,Secure IT Systems,1216.63,Office Chair,Furniture,94,799.63,478.07,385.48,Very Good,Very High,10-11-2023 16:00
+7,32,Quality Materials,2079.05,Circuit Board,Electronics,70,98.33,85.79,882.01,Very Good,High,30-08-2023 10:49
+5,33,NextGen Electronics,2559.69,Circuit Board,Electronics,81,562.87,315.43,438.11,Fair,Medium,05-08-2023 15:34
+9,34,HealthPlus Supplies,3297.69,Tablet,Electronics,51,1635.2,242.38,367.18,Fair,Medium,13-11-2023 14:02
+7,35,NextGen Electronics,9960.4,Scanner,Electronics,19,576.28,178.75,684.17,Good,High,14-05-2023 11:47
+2,36,Advanced Engineering,7120.79,LED Bulb,Lighting,42,1638.23,182.25,395.54,Poor,Very High,10-05-2023 20:14
+4,37,Mountain Outdoor Gear,4149.92,Pen,Office Supplies,35,1067.88,212.27,667.19,Good,Very Low,24-05-2023 16:52
+9,38,Advanced Engineering,7502.46,Office Chair,Furniture,46,1760.93,355.41,648.85,Poor,High,03-04-2023 15:23
+2,39,Acme Corp,9194.92,Printer,Electronics,26,1153.81,303.16,607.1,Very Good,High,14-01-2023 20:38
+9,40,Reliable Textiles,9607.67,Circuit Board,Electronics,69,69.04,235.24,442.38,Excellent,High,10-12-2023 13:48
+5,41,Urban Construction,1049.71,Projector,Electronics,93,1354.09,47.21,593.65,Good,Medium,27-10-2023 01:52
+2,42,Rapid Delivery Services,4247.96,Printer,Electronics,64,99.26,48.11,636.84,Good,Low,04-11-2023 02:27
+4,43,Quality Materials,1514.18,Office Chair,Furniture,37,906.69,11.15,591.12,Poor,Very Low,27-08-2023 12:47
+7,44,EcoFriendly Products,3688.77,Projector,Electronics,84,1859.56,484.17,499.98,Very Good,Very High,16-02-2023 16:26
+8,45,Global Solutions,2111.96,Safety Goggles,Safety and Health,49,338.76,12.57,113.2,Very Good,Very High,13-05-2023 00:46
+3,46,Urban Construction,6645.06,3D Printer,Electronics,21,785.85,60.52,628.36,Poor,Low,25-06-2023 01:41
+1,47,Urban Construction,4188.55,Printer,Electronics,74,1462.42,164.15,251.6,Very Good,High,26-09-2023 10:34
+4,48,Reliable Textiles,2679.25,Electric Motor,Industrial Equipment,64,1765.69,405.64,678.32,Fair,Very Low,17-01-2023 18:39
+2,49,Global Solutions,3026.41,Scanner,Electronics,5,1345.18,481.43,783.41,Excellent,Very High,07-10-2023 09:11
+8,50,EcoFriendly Products,3923.28,Electric Motor,Industrial Equipment,70,523.76,397.11,550.4,Good,Very High,10-11-2023 16:00
+4,51,Advanced Engineering,2969.52,Consulting Service,Professional Services,90,1352.47,348.37,588.13,Excellent,High,28-11-2023 04:11
+2,52,EcoFriendly Products,4805.79,Desktop Computer,Electronics,4,600.49,265.44,956.33,Good,Low,01-03-2023 19:34
+6,53,Automotive Parts Co.,807,Safety Goggles,Safety and Health,39,1439.67,52.49,862.45,Fair,Very Low,09-12-2023 02:47
+6,54,Quality Materials,3157.75,Desk Lamp,Lighting,35,1908.53,479.5,922.81,Very Good,Low,20-08-2023 23:13
+4,55,Quality Materials,4406.46,Software License,IT and Services,1,1445.57,381.61,832.39,Poor,Low,15-05-2023 05:17
+6,56,Secure IT Systems,6226.43,Mobile Phone,Electronics,24,1727.13,323.09,198.03,Fair,Very Low,16-11-2023 12:04
+2,57,Quality Materials,3074.1,Laptop,Electronics,57,14.19,381.93,234.09,Excellent,Very Low,18-08-2023 18:42
+2,58,Premier Food Distributors,1765.26,Packaging Material,Packaging,70,1437.97,364.81,573.96,Poor,Very High,13-03-2023 11:41
+4,59,Global Solutions,1223.9,Hydraulic Pump,Industrial Equipment,41,1660.88,322.24,321.46,Very Good,Very High,14-02-2023 11:55
+8,60,Urban Construction,9435.05,Projector,Electronics,54,90.71,490.48,529.03,Fair,Very Low,27-07-2023 21:29
+7,61,Rapid Delivery Services,4458.07,3D Printer,Electronics,46,1744.48,452.65,454.93,Poor,Medium,14-12-2023 05:20
+9,62,Advanced Engineering,6021.04,Circuit Board,Electronics,60,520.82,326.87,594.47,Fair,Very High,16-01-2023 07:38
+8,63,Oceanic Transports,9232.18,Desk Lamp,Lighting,60,1333.93,349.66,772.19,Fair,Medium,01-12-2023 02:12
+5,64,Precision Tools,1286.11,Notebook,Office Supplies,57,1602.71,35.28,743.94,Very Good,Very Low,03-06-2023 21:58
+2,65,Quality Materials,8828.28,Mobile Phone,Electronics,31,1328.7,338.26,569.11,Good,Very High,02-04-2023 04:22
+5,66,Quality Materials,5740.08,Desk Lamp,Lighting,84,193.65,31.64,840.15,Poor,Low,28-10-2023 12:53
+8,67,Advanced Engineering,2065.93,3D Printer,Electronics,24,1196.68,298.25,487.78,Very Good,Very Low,30-12-2023 06:29
+9,68,Mountain Outdoor Gear,4406.92,Projector,Electronics,89,1103.67,499.68,907.04,Fair,High,06-11-2023 06:58
+9,69,Creative Marketing Solutions,7887.22,3D Printer,Electronics,36,1801.64,282.35,164.15,Very Good,Medium,30-01-2023 21:47
+1,70,Rapid Delivery Services,5063.52,Safety Goggles,Safety and Health,85,814.44,241.87,959.19,Good,Very Low,12-03-2023 18:10
+9,71,Premier Food Distributors,9860.22,LED Bulb,Lighting,30,648.95,163.3,689.22,Poor,Very Low,23-11-2023 19:08
+7,72,Rapid Delivery Services,4079.02,Hydraulic Pump,Industrial Equipment,24,1502.2,69.06,442.07,Good,Very High,22-01-2023 21:12
+9,73,Premier Food Distributors,7620.99,Consulting Service,Professional Services,30,831.22,368.2,277.44,Excellent,Very High,25-04-2023 12:36
+8,74,Automotive Parts Co.,4233.4,Scanner,Electronics,86,1295.73,104.37,531.26,Poor,Very High,22-03-2023 23:16
+1,75,HealthPlus Supplies,8377.06,Software License,IT and Services,92,1296.44,66.49,275.1,Good,High,20-10-2023 12:18
+8,76,Rapid Delivery Services,5906.27,Hydraulic Pump,Industrial Equipment,7,1777.2,216.66,249.7,Fair,Very High,29-06-2023 10:43
+8,77,Efficient Lighting,1103.36,Notebook,Office Supplies,35,1201.4,399.72,655.62,Poor,Very Low,30-03-2023 06:20
+3,78,HealthPlus Supplies,849.81,Printer,Electronics,55,1009.29,375.08,570.78,Poor,Very High,18-07-2023 09:54
+1,79,Precision Tools,1771.6,Hydraulic Pump,Industrial Equipment,92,286.35,36.89,703.09,Very Good,Low,02-08-2023 17:33
+8,80,NextGen Electronics,629.88,3D Printer,Electronics,14,240.32,233.02,936.65,Fair,Very High,17-10-2023 14:17
+3,81,Secure IT Systems,1215.91,Notebook,Office Supplies,10,317.1,265.99,579.03,Excellent,High,09-12-2023 20:17
+3,82,Precision Tools,7071.29,Pen,Office Supplies,80,351.98,325.83,622.84,Good,Low,11-12-2023 07:18
+1,83,Rapid Delivery Services,5576.29,Scanner,Electronics,16,1279.38,328.58,180.66,Very Good,Very Low,31-05-2023 06:26
+5,84,Precision Tools,7624.15,Safety Goggles,Safety and Health,54,1484.55,188.7,745.87,Good,Very Low,21-03-2023 12:15
+7,85,Rapid Delivery Services,9175.07,Circuit Board,Electronics,95,1064.68,284.73,459.91,Excellent,Medium,17-11-2023 05:34
+9,86,Creative Marketing Solutions,6058.92,Tablet,Electronics,89,1659.75,245.72,979.05,Excellent,Low,22-07-2023 01:26
+7,87,Reliable Textiles,7398.15,Laptop,Electronics,77,1982.61,443.65,840.86,Poor,Medium,25-11-2023 06:09
+9,88,NextGen Electronics,7692.27,LED Bulb,Lighting,70,1641.83,269.83,570.23,Excellent,Low,10-02-2023 02:53
+8,89,Green Energy Ltd,4089.58,3D Printer,Electronics,44,1392.82,226.11,210.9,Good,Low,30-09-2023 19:37
+2,90,Rapid Delivery Services,2790.31,Desktop Computer,Electronics,73,1069.66,208.2,873.47,Fair,High,21-10-2023 05:49
+1,91,Tech Innovations,2447.93,Projector,Electronics,45,903.22,290.49,819.8,Fair,Medium,10-02-2023 20:23
+7,92,Quality Materials,2888.7,Office Chair,Furniture,56,177.94,403.95,266.13,Poor,High,08-11-2023 11:29
+7,93,Secure IT Systems,3109.95,Circuit Board,Electronics,84,804.74,273.82,365.75,Good,Low,17-12-2023 20:52
+8,94,Reliable Textiles,2468.66,Consulting Service,Professional Services,82,1821.17,334.21,814.07,Good,Very Low,31-07-2023 13:02
+5,95,Precision Tools,8843.1,Projector,Electronics,57,1617.97,371.55,266.71,Excellent,Low,24-03-2023 10:17
+3,96,Rapid Delivery Services,7691.49,Projector,Electronics,21,439.94,264.88,925.98,Good,High,05-10-2023 04:39
+8,97,Quality Materials,945.52,Electric Motor,Industrial Equipment,68,938.55,219.14,482.07,Very Good,Medium,08-10-2023 02:41
+6,98,Creative Marketing Solutions,3052.39,Printer,Electronics,50,1635.28,439.57,178.34,Excellent,Medium,12-08-2023 22:39
+3,99,Reliable Textiles,710.76,Printer,Electronics,33,144.1,214.58,834.17,Very Good,High,06-09-2023 00:23
+1,100,Premier Food Distributors,5232.57,Software License,IT and Services,91,780.91,236.35,436.16,Poor,Medium,14-12-2023 05:20
+3,101,Urban Construction,5024,Tablet,Electronics,7,1705.16,495.27,573.85,Fair,Very High,24-05-2023 16:52
+5,102,Precision Tools,8398.03,Notebook,Office Supplies,70,813.76,10.12,201.07,Poor,Very Low,03-11-2023 08:56
+3,103,Automotive Parts Co.,3423.88,Scanner,Electronics,15,164.45,100.88,102.33,Fair,Very Low,22-08-2023 10:14
+1,104,Oceanic Transports,8255.66,Notebook,Office Supplies,82,1089.64,198.14,674.19,Poor,Very Low,10-05-2023 20:14
+5,105,Urban Construction,9695.75,Desktop Computer,Electronics,32,1724.87,466.97,563.66,Good,Medium,08-10-2023 02:41
+7,106,Acme Corp,1339.88,Packaging Material,Packaging,75,1184.67,44.31,634.18,Very Good,Medium,09-06-2023 00:31
+7,107,Precision Tools,8022.27,Printer,Electronics,20,460.3,14.65,814.37,Fair,Low,21-07-2023 07:56
+9,108,Mountain Outdoor Gear,6104.58,Notebook,Office Supplies,88,774.64,35.82,681.95,Excellent,Low,15-11-2023 01:03
+3,109,Acme Corp,5060.44,Scanner,Electronics,15,905.75,53.39,257.3,Very Good,Very Low,11-01-2023 22:36
+7,110,Reliable Textiles,4495.09,Mobile Phone,Electronics,48,1162.74,28.42,424.7,Excellent,Very High,25-12-2023 03:56
+1,111,Secure IT Systems,7954.35,Scanner,Electronics,71,1521.11,245.09,915.3,Very Good,Low,03-10-2023 17:39
+4,112,Oceanic Transports,6573.93,Printer,Electronics,21,206.76,294.57,792.95,Very Good,Low,13-02-2023 18:25
+4,113,Secure IT Systems,8147.92,Notebook,Office Supplies,42,1780.41,143.13,600.97,Poor,Medium,08-02-2023 15:52
+5,114,Oceanic Transports,9079.94,Scanner,Electronics,26,34.5,205.16,330.08,Fair,Very High,02-05-2023 19:40
+7,115,Mountain Outdoor Gear,6364.01,Hydraulic Pump,Industrial Equipment,14,746.4,54.93,371.85,Fair,Very Low,19-01-2023 05:40
+7,116,Efficient Lighting,9814.4,Pen,Office Supplies,57,64.57,174.82,758.76,Very Good,Low,02-09-2023 08:50
+4,117,Mountain Outdoor Gear,6276.83,Office Chair,Furniture,37,792.02,266.03,866.06,Good,Very High,13-12-2023 11:49
+7,118,Creative Marketing Solutions,6548.12,Electric Motor,Industrial Equipment,58,1056.37,368.81,704.28,Good,Very High,16-02-2023 16:26
+3,119,Secure IT Systems,5770.75,3D Printer,Electronics,21,1028.25,11.64,828.58,Excellent,Very Low,14-03-2023 05:11
+6,120,Green Energy Ltd,1364.52,3D Printer,Electronics,82,339.6,238.98,789.99,Excellent,Very High,23-02-2023 06:00
+2,121,HealthPlus Supplies,7400.77,Printer,Electronics,69,1295.02,155.53,234.73,Poor,Very High,20-05-2023 07:50
+9,122,Creative Marketing Solutions,5700.74,Mobile Phone,Electronics,3,99.11,427.88,481.55,Very Good,Very High,05-05-2023 00:11
+5,123,EcoFriendly Products,4783.65,Safety Goggles,Safety and Health,87,1526.19,360.62,237.69,Excellent,Low,18-07-2023 09:54
+6,124,Rapid Delivery Services,9149.48,Laptop,Electronics,90,1893.82,298.66,311.71,Excellent,Very Low,02-10-2023 06:38
+4,125,Efficient Lighting,3330.61,Pen,Office Supplies,37,686.14,145.86,882.33,Very Good,Very High,16-05-2023 16:18
+7,126,Tech Innovations,5474.22,Hydraulic Pump,Industrial Equipment,88,1039.31,456.07,525.6,Poor,Very High,17-01-2023 01:09
+9,127,Efficient Lighting,7127.6,Pen,Office Supplies,49,764.03,32.1,581.82,Excellent,Low,12-10-2023 11:44
+7,128,Automotive Parts Co.,8066.48,Notebook,Office Supplies,19,23.35,63.64,260.6,Poor,Very Low,08-11-2023 11:29
+1,129,Premier Food Distributors,4863.79,Mobile Phone,Electronics,89,777.89,201.9,381.04,Fair,Medium,12-05-2023 07:15
+1,130,Reliable Textiles,8499.87,Laptop,Electronics,85,1585.52,70.97,307.22,Poor,Low,26-08-2023 19:17
+9,131,Efficient Lighting,7804.72,Pen,Office Supplies,12,1196.02,478.64,285.57,Good,Very Low,20-03-2023 01:15
+9,132,Advanced Engineering,1129.24,Tablet,Electronics,61,211.51,401.01,674.16,Good,Very High,01-09-2023 15:20
+4,133,HealthPlus Supplies,935.68,Desk Lamp,Lighting,41,1695.81,136.9,331.2,Poor,Very Low,28-04-2023 10:37
+9,134,Global Solutions,6397.65,Software License,IT and Services,33,1066.86,298.39,668.81,Good,Very Low,08-08-2023 13:36
+3,135,Quality Materials,3800.43,Office Chair,Furniture,50,1685.03,491.34,152.61,Fair,Very Low,25-12-2023 21:27
+7,136,NextGen Electronics,2486.74,Desktop Computer,Electronics,68,1164.64,443.26,227.6,Very Good,Medium,25-11-2023 23:39
+6,137,Acme Corp,6006.67,Office Chair,Furniture,71,1123.78,304.39,347.09,Good,Very Low,30-05-2023 12:56
+8,138,Quality Materials,3744.85,Circuit Board,Electronics,86,219.47,452.82,637.34,Good,Medium,26-02-2023 04:02
+9,139,Mountain Outdoor Gear,5604,Projector,Electronics,33,343.05,494.7,708.26,Poor,Very High,11-01-2023 22:36
+5,140,Reliable Textiles,4871.13,Consulting Service,Professional Services,81,1944.33,374.24,498.45,Fair,Medium,26-08-2023 19:17
+1,141,Premier Food Distributors,6055.28,Printer,Electronics,24,464.69,41.84,501.21,Very Good,Very High,11-03-2023 07:09
+3,142,Oceanic Transports,4302.85,Projector,Electronics,61,1955.13,206.77,752.07,Poor,Very High,17-04-2023 12:01
+8,143,Acme Corp,7127.84,Projector,Electronics,61,1068.51,420.53,114.24,Poor,Medium,01-01-2023 17:30
+6,144,Oceanic Transports,2210.64,Office Chair,Furniture,98,280.22,122.98,406.98,Fair,Low,07-01-2023 13:33
+8,145,Creative Marketing Solutions,7116.76,Printer,Electronics,28,207.61,417.01,836.84,Very Good,High,12-11-2023 20:32
+9,146,Oceanic Transports,4410.78,3D Printer,Electronics,58,425.64,68.97,642.9,Fair,Very Low,01-04-2023 10:52
+4,147,Efficient Lighting,8806.02,Circuit Board,Electronics,43,1852.02,33,403.5,Very Good,High,28-02-2023 08:33
+1,148,EcoFriendly Products,5394.74,Mobile Phone,Electronics,41,834.16,198.2,914.97,Fair,Very Low,20-12-2023 01:23
+1,149,Efficient Lighting,9744.55,Circuit Board,Electronics,39,796.91,28,795.36,Poor,Very Low,12-04-2023 09:28
+4,150,Creative Marketing Solutions,6218.39,Safety Goggles,Safety and Health,86,633.28,479.06,338.41,Poor,Very High,26-08-2023 01:46
+7,151,Efficient Lighting,2626.57,Laptop,Electronics,49,302.65,414.84,680.76,Excellent,Very Low,19-04-2023 16:32
+2,152,Advanced Engineering,8307.01,Consulting Service,Professional Services,17,980.82,402.38,636.18,Good,Very Low,29-07-2023 08:30
+3,153,HealthPlus Supplies,3778.28,Pen,Office Supplies,98,268.8,318.59,461.07,Fair,Medium,20-09-2023 14:31
+1,154,Automotive Parts Co.,3802.38,Hydraulic Pump,Industrial Equipment,70,1672.61,116,430.26,Excellent,High,05-09-2023 06:52
+5,155,Green Energy Ltd,802.14,Hydraulic Pump,Industrial Equipment,70,747.09,263.95,409.2,Good,Medium,04-04-2023 08:53
+1,156,Rapid Delivery Services,5712.8,Printer,Electronics,98,755.86,302.66,655.44,Fair,Very Low,15-11-2023 18:33
+8,157,Premier Food Distributors,5577.02,Hydraulic Pump,Industrial Equipment,65,953.27,267.27,498.17,Very Good,Very High,23-06-2023 14:40
+1,158,Tech Innovations,3881.92,Notebook,Office Supplies,74,893.81,137.51,848.68,Good,Medium,11-02-2023 13:53
+1,159,Acme Corp,8995.06,Scanner,Electronics,85,1989.77,262.47,702.64,Poor,Medium,24-05-2023 16:52
+2,160,Urban Construction,1723.11,Laptop,Electronics,5,1095.31,250.68,162.94,Excellent,Low,03-06-2023 04:28
+2,161,Global Solutions,3635.95,Electric Motor,Industrial Equipment,2,185.52,498.2,676.15,Good,Very Low,20-10-2023 12:18
+6,162,Green Energy Ltd,3555.04,Printer,Electronics,22,1217.69,449.74,344.03,Good,Very High,11-10-2023 18:13
+7,163,Mountain Outdoor Gear,1376.76,Mobile Phone,Electronics,57,311.65,237.06,633.53,Poor,Medium,02-02-2023 02:18
+5,164,Reliable Textiles,5070.88,Notebook,Office Supplies,66,71.57,315.24,712.12,Fair,Medium,12-03-2023 00:40
+1,165,EcoFriendly Products,7033.95,Pen,Office Supplies,74,1941.78,376.46,307.75,Very Good,Very High,22-07-2023 18:57
+1,166,Green Energy Ltd,5360.74,Scanner,Electronics,98,1549.34,27.08,511.17,Poor,Very Low,17-01-2023 01:09
+3,167,Urban Construction,1991.29,Circuit Board,Electronics,16,1960.42,448.51,271.29,Very Good,Low,26-10-2023 08:22
+2,168,Creative Marketing Solutions,4084.22,Pen,Office Supplies,51,960.98,431.46,147.1,Fair,Medium,02-12-2023 13:13
+5,169,Automotive Parts Co.,524.65,Packaging Material,Packaging,39,1069.19,234.14,440.63,Good,Low,12-10-2023 11:44
+6,170,Reliable Textiles,8748.86,Electric Motor,Industrial Equipment,86,344.99,201.67,426.65,Very Good,High,01-09-2023 15:20
+7,171,Secure IT Systems,1302.91,Notebook,Office Supplies,76,501.35,143.75,995.93,Excellent,Very Low,01-02-2023 08:48
+4,172,Automotive Parts Co.,6174.14,Projector,Electronics,88,1678.71,243.57,501.72,Excellent,High,19-01-2023 23:10
+7,173,Global Solutions,9869.44,Tablet,Electronics,40,718.81,31.74,400.21,Poor,High,24-07-2023 23:28
+8,174,Rapid Delivery Services,5597.61,Consulting Service,Professional Services,38,1655.36,427.57,622.43,Fair,High,12-03-2023 00:40
+1,175,Acme Corp,9278.4,Safety Goggles,Safety and Health,60,1420.94,27.36,179.89,Poor,Very Low,04-12-2023 00:14
+6,176,Green Energy Ltd,2743.11,Printer,Electronics,59,362.57,171.24,965.5,Poor,Very Low,26-01-2023 12:44
+8,177,Rapid Delivery Services,7719.58,Circuit Board,Electronics,10,1019.82,466.48,671.46,Poor,Very High,20-03-2023 18:45
+5,178,EcoFriendly Products,5547.02,Projector,Electronics,99,1358,370.25,779.35,Excellent,Low,09-02-2023 09:22
+4,179,Oceanic Transports,7344.9,Printer,Electronics,64,477.72,147.88,253.43,Excellent,Low,20-05-2023 07:50
+2,180,Secure IT Systems,1092.24,Printer,Electronics,63,1663.07,133.8,468.53,Poor,Very High,09-06-2023 00:31
+6,181,Precision Tools,1903.52,Desk Lamp,Lighting,49,1094.21,12.49,480.42,Excellent,Very High,15-05-2023 05:17
+6,182,Secure IT Systems,1764.61,Tablet,Electronics,64,338.83,350.9,839.63,Fair,High,19-02-2023 14:28
+1,183,EcoFriendly Products,7028.07,Software License,IT and Services,32,1170.14,33.9,101.11,Poor,Very High,19-08-2023 12:12
+9,184,Urban Construction,8522.19,Desk Lamp,Lighting,7,1999.43,270.98,370.77,Excellent,Medium,05-04-2023 02:24
+6,185,Acme Corp,7621.35,Safety Goggles,Safety and Health,21,309.54,481.44,983.11,Very Good,Low,09-02-2023 09:22
+3,186,Automotive Parts Co.,789.49,Desktop Computer,Electronics,20,1635.35,63.64,527.4,Poor,Very High,03-10-2023 00:08
+4,187,Global Solutions,8738.54,Notebook,Office Supplies,26,422.54,448.3,444.27,Poor,Medium,12-03-2023 00:40
+4,188,Acme Corp,3864.39,Safety Goggles,Safety and Health,68,1566.95,495.82,207.85,Fair,Medium,02-09-2023 08:50
+3,189,Advanced Engineering,4273.06,Consulting Service,Professional Services,86,1471.81,40.14,976.75,Good,Medium,04-03-2023 17:36
+3,190,Advanced Engineering,1496.26,Hydraulic Pump,Industrial Equipment,15,607.97,442.62,118.02,Good,Medium,02-08-2023 17:33
+3,191,HealthPlus Supplies,7505.35,Consulting Service,Professional Services,85,658.39,262.88,763.46,Fair,High,28-03-2023 01:49
+4,192,NextGen Electronics,2231.7,Consulting Service,Professional Services,79,1587.12,454.19,791.74,Fair,Medium,31-05-2023 23:57
+7,193,Secure IT Systems,5857.67,Printer,Electronics,86,928.28,289.95,319.29,Fair,High,31-08-2023 21:50
+4,194,Acme Corp,8486.74,Hydraulic Pump,Industrial Equipment,92,1464.33,334.43,704.4,Good,High,28-10-2023 12:53
+9,195,Rapid Delivery Services,1347.44,3D Printer,Electronics,14,304.49,276.45,183.64,Fair,Medium,22-04-2023 14:34
+1,196,Advanced Engineering,5585.69,Desktop Computer,Electronics,27,1706.59,433.6,331.34,Excellent,Low,25-01-2023 19:14
+8,197,Global Solutions,2715.56,Circuit Board,Electronics,40,1424.66,369.62,809.11,Poor,Medium,26-02-2023 21:32
+7,198,NextGen Electronics,3757.81,Office Chair,Furniture,58,1814.82,265.42,878.22,Poor,Medium,18-02-2023 03:27
+2,199,EcoFriendly Products,5002.71,Office Chair,Furniture,28,273.42,435.4,647.64,Very Good,Medium,07-09-2023 11:23
+8,200,Mountain Outdoor Gear,3873.49,Laptop,Electronics,26,1190.1,130.19,556.15,Very Good,Low,28-10-2023 12:53
+1,201,Tech Innovations,6663.82,Pen,Office Supplies,63,1202.25,87.1,243.37,Poor,Very Low,25-01-2023 01:43
+9,202,EcoFriendly Products,5056.03,Notebook,Office Supplies,66,713.39,88.6,156.8,Excellent,Very Low,12-03-2023 00:40
+9,203,EcoFriendly Products,6049.9,Desk Lamp,Lighting,25,922.35,173.66,205.88,Good,High,03-05-2023 13:10
+2,204,Reliable Textiles,7499.81,Tablet,Electronics,3,85.58,126.96,304.62,Good,High,03-05-2023 13:10
+7,205,Acme Corp,5798.55,Printer,Electronics,72,1494.26,465.74,407.51,Excellent,Low,20-04-2023 10:03
+3,206,Premier Food Distributors,6072.09,Office Chair,Furniture,44,1103.15,61.86,442.82,Good,Very High,21-02-2023 01:29
+7,207,Acme Corp,5862.36,Laptop,Electronics,97,124.9,352.51,411.69,Fair,Very Low,02-01-2023 11:00
+9,208,Reliable Textiles,4098.34,LED Bulb,Lighting,42,1364.7,102.72,315.15,Poor,High,17-08-2023 07:41
+4,209,Acme Corp,3705.74,Printer,Electronics,99,938.9,442,558.75,Poor,Very Low,23-01-2023 14:43
+1,210,Green Energy Ltd,9046.65,Desk Lamp,Lighting,6,78.58,481.04,842.76,Excellent,Low,28-07-2023 15:00
+2,211,Rapid Delivery Services,6271.77,Hydraulic Pump,Industrial Equipment,39,1939.52,238.08,351.73,Good,Low,01-03-2023 02:04
+1,212,Premier Food Distributors,2821.35,Desktop Computer,Electronics,52,1898.73,440.75,948.15,Very Good,Very High,31-01-2023 15:17
+5,213,NextGen Electronics,5233.35,Projector,Electronics,23,1030.68,12.52,886,Very Good,Very High,12-10-2023 11:44
+5,214,Global Solutions,3638.31,Desktop Computer,Electronics,89,196.41,411.77,245.59,Good,Low,17-03-2023 20:43
+7,215,Creative Marketing Solutions,9370.07,Pen,Office Supplies,50,1511.7,122.03,807.65,Very Good,High,01-01-2023 00:00
+9,216,Global Solutions,571.58,Pen,Office Supplies,43,988.94,455.26,617.13,Excellent,Very Low,13-02-2023 18:25
+9,217,Acme Corp,2640.66,Projector,Electronics,19,611.87,10.55,609.92,Excellent,Medium,16-07-2023 05:23
+3,218,Reliable Textiles,3970.89,Pen,Office Supplies,69,987.92,282.53,451.94,Good,Very High,11-05-2023 13:45
+3,219,Advanced Engineering,5134.19,Safety Goggles,Safety and Health,51,1049.66,380.75,551.04,Very Good,Medium,12-06-2023 16:03
+3,220,Mountain Outdoor Gear,8582.77,Laptop,Electronics,11,1129.8,136.76,457.46,Excellent,High,04-01-2023 15:32
+4,221,NextGen Electronics,1334.93,Packaging Material,Packaging,12,888.04,104.64,585.76,Excellent,Very High,16-03-2023 09:42
+8,222,Urban Construction,8155.72,Pen,Office Supplies,74,1215.45,51.21,665.16,Fair,Medium,07-01-2023 13:33
+6,223,Reliable Textiles,1028.71,Laptop,Electronics,8,1838.28,169.95,706.87,Fair,High,21-02-2023 01:29
+8,224,Reliable Textiles,8501.98,Desktop Computer,Electronics,24,730.91,284.32,579.23,Excellent,Very Low,06-03-2023 22:07
+1,225,Rapid Delivery Services,990.54,Projector,Electronics,92,1454.18,66.76,749.28,Good,High,14-06-2023 03:04
+8,226,EcoFriendly Products,673.3,Mobile Phone,Electronics,41,1789.96,194.58,227.15,Poor,Very High,25-04-2023 12:36
+4,227,Mountain Outdoor Gear,7121.13,Circuit Board,Electronics,36,917.4,14.45,290.78,Poor,Low,15-06-2023 14:05
+1,228,Green Energy Ltd,9973.93,Notebook,Office Supplies,85,892.48,411.15,836.86,Excellent,Very Low,22-10-2023 16:50
+8,229,Precision Tools,9017.8,Desktop Computer,Electronics,72,1208.21,72.94,390.28,Excellent,Medium,02-04-2023 04:22
+4,230,Efficient Lighting,5971.98,Printer,Electronics,55,1186.9,148.84,120.6,Excellent,Very High,20-11-2023 03:36
+6,231,HealthPlus Supplies,9215.26,Consulting Service,Professional Services,9,1615.11,19.03,238.41,Good,Low,01-06-2023 17:27
+8,232,NextGen Electronics,550.35,Consulting Service,Professional Services,47,958.2,221.8,301.25,Fair,High,12-03-2023 00:40
+4,233,Tech Innovations,9763.14,Safety Goggles,Safety and Health,15,1992.28,421.66,961.59,Excellent,Low,23-02-2023 06:00
+3,234,Green Energy Ltd,5162.11,Projector,Electronics,48,128.35,202.15,615.74,Excellent,Very High,25-03-2023 03:47
+9,235,Mountain Outdoor Gear,7367.51,Hydraulic Pump,Industrial Equipment,82,16.3,97.95,939.46,Very Good,Very High,19-05-2023 14:19
+3,236,Mountain Outdoor Gear,8298.18,Electric Motor,Industrial Equipment,42,1283.99,379.31,617.65,Good,Low,27-12-2023 08:27
+9,237,Premier Food Distributors,7325.34,Packaging Material,Packaging,60,603.89,396.52,531.42,Excellent,High,04-05-2023 06:41
+2,238,Reliable Textiles,5582.85,Packaging Material,Packaging,84,488.36,95.14,382.35,Very Good,Low,12-08-2023 05:08
+2,239,Quality Materials,5027.89,Tablet,Electronics,70,630.68,387.72,645.73,Poor,Very High,23-11-2023 01:38
+2,240,Rapid Delivery Services,8466.53,Notebook,Office Supplies,12,519.53,474.18,225.28,Excellent,Very High,29-05-2023 01:55
+6,241,Green Energy Ltd,2448.24,Tablet,Electronics,2,71.27,91.53,908.44,Excellent,Medium,10-02-2023 02:53
+3,242,Quality Materials,9695.94,Safety Goggles,Safety and Health,7,1943.35,387.78,846.4,Very Good,Medium,31-05-2023 23:57
+9,243,Secure IT Systems,7254.05,Scanner,Electronics,80,449.28,357.2,385.78,Good,Very Low,30-01-2023 04:16
+4,244,NextGen Electronics,2395.32,LED Bulb,Lighting,3,1470.72,242.05,957.52,Excellent,Very High,23-01-2023 14:43
+1,245,Oceanic Transports,7494.35,Circuit Board,Electronics,3,1527.57,38.38,842.68,Poor,Medium,11-01-2023 05:05
+4,246,Mountain Outdoor Gear,5533.48,Safety Goggles,Safety and Health,27,1859.22,46.6,699.68,Excellent,Low,14-02-2023 11:55
+1,247,Reliable Textiles,7218.69,Printer,Electronics,40,70.79,427.68,209.59,Poor,High,23-04-2023 08:04
+5,248,EcoFriendly Products,7793.91,Safety Goggles,Safety and Health,33,1745.38,495.17,530.41,Fair,Low,26-07-2023 10:29
+4,249,Green Energy Ltd,1329.26,LED Bulb,Lighting,92,1059.18,341.27,555.5,Fair,High,01-06-2023 17:27
+8,250,Secure IT Systems,5307.99,Desk Lamp,Lighting,1,1268.76,228.52,309.3,Poor,Medium,21-08-2023 16:44
+8,251,Creative Marketing Solutions,9354.14,Projector,Electronics,8,1292.5,327.31,171.97,Good,Very Low,26-12-2023 14:57
+7,252,Oceanic Transports,3546.1,Scanner,Electronics,32,1641.4,301.25,799.05,Excellent,Low,16-05-2023 16:18
+3,253,Automotive Parts Co.,6141.89,Office Chair,Furniture,48,673.48,197.97,209.83,Excellent,Low,29-12-2023 12:59
+1,254,Mountain Outdoor Gear,4007.69,Tablet,Electronics,4,1468.77,42.16,634.86,Fair,Low,18-11-2023 16:35
+1,255,Green Energy Ltd,4815.55,Software License,IT and Services,94,1061.87,412.54,942.8,Poor,High,05-04-2023 02:24
+3,256,Oceanic Transports,5711.73,Software License,IT and Services,70,1588.85,192.2,888.49,Excellent,Medium,02-04-2023 21:53
+6,257,Efficient Lighting,5714.76,Tablet,Electronics,19,1981.19,411.2,349.98,Excellent,Low,01-08-2023 06:32
+7,258,Secure IT Systems,2416.44,Scanner,Electronics,32,409.3,133.73,866.3,Good,Low,24-03-2023 10:17
+6,259,Oceanic Transports,7003.43,Notebook,Office Supplies,9,1989.35,10.5,100.3,Very Good,Very Low,25-05-2023 10:23
+6,260,Secure IT Systems,1334.75,Scanner,Electronics,12,188.73,87.88,115.92,Fair,Very Low,09-01-2023 18:05
+6,261,Precision Tools,1818.84,Desktop Computer,Electronics,11,14.61,239.58,642.3,Fair,Medium,16-07-2023 22:53
+3,262,Precision Tools,525.75,Printer,Electronics,46,97.88,472.71,428.32,Very Good,Medium,06-03-2023 04:37
+6,263,Secure IT Systems,1608.61,LED Bulb,Lighting,16,690.15,60.07,447.81,Excellent,Very High,06-06-2023 02:30
+8,264,Rapid Delivery Services,4995.08,Packaging Material,Packaging,1,1269.48,428.56,608,Good,Very Low,20-11-2023 03:36
+2,265,Secure IT Systems,6257.97,Printer,Electronics,63,147.37,268.24,272.6,Good,Very High,22-07-2023 01:26
+5,266,Creative Marketing Solutions,8045.75,Packaging Material,Packaging,21,21.27,414.7,290.58,Fair,High,22-11-2023 08:07
+1,267,Tech Innovations,1513.64,Safety Goggles,Safety and Health,30,1874.81,156.2,536.14,Good,Very High,12-12-2023 00:49
+1,268,Quality Materials,8581.91,Circuit Board,Electronics,13,1645.63,421.57,778.83,Very Good,Low,17-12-2023 03:22
+5,269,Advanced Engineering,7586.76,Office Chair,Furniture,34,1620.27,388.68,657.55,Excellent,Very High,28-05-2023 08:25
+3,270,HealthPlus Supplies,4380.92,Projector,Electronics,4,1770,122.73,367.62,Very Good,Medium,23-02-2023 06:00
+4,271,Oceanic Transports,9362.91,3D Printer,Electronics,28,1403.07,74.35,487.3,Poor,High,18-01-2023 12:10
+3,272,Urban Construction,9913.83,Safety Goggles,Safety and Health,95,217.76,435.35,253.6,Fair,Low,14-03-2023 22:42
+1,273,Green Energy Ltd,2447.52,Hydraulic Pump,Industrial Equipment,59,804.21,481.99,167.17,Good,Very High,08-05-2023 15:43
+1,274,Green Energy Ltd,4102.67,Office Chair,Furniture,27,1449.07,25.34,804.43,Poor,High,07-11-2023 17:59
+5,275,Precision Tools,9301.27,Software License,IT and Services,69,567.87,368.32,338.85,Good,High,26-03-2023 14:48
+6,276,Quality Materials,7355.17,Packaging Material,Packaging,25,1377.94,455.67,259.99,Excellent,Low,01-05-2023 08:39
+3,277,NextGen Electronics,956.9,Printer,Electronics,3,58.75,430.11,722.46,Excellent,Very High,30-01-2023 04:16
+9,278,Green Energy Ltd,7924.39,LED Bulb,Lighting,97,619.21,482.62,656.25,Excellent,High,09-11-2023 05:00
+5,279,Premier Food Distributors,8365.44,Printer,Electronics,68,1102.77,382.45,669.87,Good,High,08-09-2023 04:54
+8,280,Automotive Parts Co.,7629.77,Mobile Phone,Electronics,25,1267.86,226.73,306.01,Poor,Very Low,05-11-2023 13:28
+1,281,Rapid Delivery Services,8095.6,Software License,IT and Services,20,1158.31,162.86,309.38,Excellent,High,24-09-2023 06:03
+5,282,Urban Construction,8338.76,Packaging Material,Packaging,34,1398.53,167.16,298.72,Poor,Very Low,28-03-2023 19:20
+3,283,Premier Food Distributors,2270.85,Safety Goggles,Safety and Health,26,22.12,364.97,256.38,Good,Very High,12-03-2023 00:40
+1,284,Advanced Engineering,2739.07,Tablet,Electronics,5,210.87,375.46,690.15,Poor,Very High,16-04-2023 01:00
+4,285,Secure IT Systems,6520.71,Electric Motor,Industrial Equipment,99,1739.2,108.18,863.21,Good,Very High,06-06-2023 20:00
+5,286,NextGen Electronics,9124.73,Desktop Computer,Electronics,61,1366.68,435.38,751.89,Good,Medium,16-06-2023 07:35
+7,287,Secure IT Systems,3503.87,Electric Motor,Industrial Equipment,92,234.73,360.31,812.88,Fair,Very High,16-08-2023 14:11
+1,288,Global Solutions,6088.91,Circuit Board,Electronics,93,1685.73,285.75,464.32,Good,High,05-04-2023 02:24
+3,289,Advanced Engineering,6988.33,Electric Motor,Industrial Equipment,9,492.04,241.05,688.67,Good,Low,14-09-2023 00:57
+2,290,EcoFriendly Products,4793.51,3D Printer,Electronics,50,961.74,276.18,418.81,Very Good,Very Low,02-10-2023 06:38
+9,291,Automotive Parts Co.,7280.93,Pen,Office Supplies,6,298.94,88.03,572.95,Excellent,Medium,20-08-2023 05:43
+6,292,Rapid Delivery Services,9046.84,Software License,IT and Services,83,1423.12,109.81,533.47,Fair,Very High,10-12-2023 13:48
+3,293,Urban Construction,6428.96,Notebook,Office Supplies,60,1337.04,54.67,259.2,Fair,Very High,10-04-2023 04:57
+8,294,Green Energy Ltd,5627.92,Tablet,Electronics,44,430.11,85.29,448.37,Fair,Low,24-08-2023 14:45
+8,295,Premier Food Distributors,4668.07,Mobile Phone,Electronics,11,1728.17,232.31,967.44,Very Good,Low,03-09-2023 02:21
+2,296,Rapid Delivery Services,5986.12,Desk Lamp,Lighting,66,808.6,269.87,323.72,Good,Medium,18-07-2023 09:54
+6,297,Advanced Engineering,3875.94,Printer,Electronics,47,592.11,18.75,220.42,Excellent,Very Low,26-03-2023 14:48
+7,298,HealthPlus Supplies,4219.08,Desktop Computer,Electronics,73,313.14,400.43,476.72,Poor,Very High,11-08-2023 11:38
+2,299,Global Solutions,5552.65,Printer,Electronics,85,539.67,154.14,811.3,Good,Medium,25-09-2023 17:04
+2,300,Automotive Parts Co.,1132.88,Electric Motor,Industrial Equipment,88,53.83,456.8,623.93,Very Good,High,09-03-2023 20:09
+1,301,Precision Tools,2675.74,Packaging Material,Packaging,98,1170.68,484.08,712.88,Good,High,02-05-2023 19:40
+8,302,NextGen Electronics,5657.07,Consulting Service,Professional Services,86,1686.04,100.87,270.73,Good,Medium,18-11-2023 16:35
+1,303,Rapid Delivery Services,4599.52,Office Chair,Furniture,3,1102.47,236.43,657.05,Very Good,Very High,28-05-2023 08:25
+9,304,NextGen Electronics,3661.75,Office Chair,Furniture,76,446.36,10.6,391.15,Fair,Medium,06-09-2023 00:23
+6,305,Secure IT Systems,7440.22,Notebook,Office Supplies,92,77,303.18,850.87,Fair,Very High,18-04-2023 23:02
+7,306,Oceanic Transports,7090.32,Hydraulic Pump,Industrial Equipment,30,437.11,307.58,666.37,Excellent,Low,20-10-2023 12:18
+7,307,NextGen Electronics,2083.94,Tablet,Electronics,90,838.08,131.29,278.97,Excellent,Medium,13-05-2023 18:16
+3,308,Reliable Textiles,8846.98,Software License,IT and Services,21,1521.63,283.62,158.16,Fair,Very High,28-10-2023 12:53
+2,309,Global Solutions,5206.52,Pen,Office Supplies,28,383.81,120.51,138.37,Poor,Medium,21-04-2023 03:33
+9,310,Green Energy Ltd,7543.88,Pen,Office Supplies,90,1442.38,88.8,434.27,Good,Medium,23-02-2023 06:00
+8,311,Secure IT Systems,5944.93,Scanner,Electronics,62,1735.2,329.24,339.27,Poor,Very High,23-09-2023 12:33
+7,312,Urban Construction,9978.08,Projector,Electronics,33,913.35,169.7,681.48,Good,Very High,19-10-2023 18:48
+9,313,NextGen Electronics,7647.83,Safety Goggles,Safety and Health,85,1644.65,299.23,549.4,Fair,Very Low,19-07-2023 03:24
+4,314,EcoFriendly Products,7216.31,LED Bulb,Lighting,35,1113.77,222.29,339.42,Excellent,Medium,30-01-2023 21:47
+4,315,Tech Innovations,7896.43,Scanner,Electronics,52,1277.81,492.33,234.31,Excellent,High,28-12-2023 01:58
+1,316,Advanced Engineering,1859.72,Mobile Phone,Electronics,34,1057.29,83.29,214.48,Poor,Medium,03-06-2023 21:58
+8,317,Precision Tools,2443.17,Office Chair,Furniture,41,931.71,237.65,878.19,Excellent,Medium,14-03-2023 22:42
+3,318,HealthPlus Supplies,7283.61,3D Printer,Electronics,51,476.96,343.42,319.13,Fair,Very High,02-02-2023 02:18
+7,319,Global Solutions,5192.82,Desk Lamp,Lighting,47,613.36,203.82,686.54,Poor,Medium,01-03-2023 02:04
+2,320,Tech Innovations,7669.04,Pen,Office Supplies,82,587.04,487.6,829.62,Good,Medium,12-01-2023 16:06
+2,321,Green Energy Ltd,1477.7,Consulting Service,Professional Services,58,1130.94,363.72,652.67,Excellent,High,22-02-2023 12:30
+7,322,Reliable Textiles,5596.57,LED Bulb,Lighting,75,248.71,331.92,873.61,Very Good,Very High,10-01-2023 11:35
+6,323,EcoFriendly Products,4098.8,Electric Motor,Industrial Equipment,57,1834.42,380.96,453.15,Excellent,Medium,12-11-2023 03:01
+3,324,Tech Innovations,4841.5,Pen,Office Supplies,23,1444.1,476.8,960.6,Good,Low,24-04-2023 19:05
+9,325,Urban Construction,6237.6,Desk Lamp,Lighting,48,808.88,454.83,219.83,Poor,Very Low,11-06-2023 22:33
+6,326,Precision Tools,5271.74,Projector,Electronics,22,325.66,364.9,191.93,Good,High,06-04-2023 13:25
+6,327,Acme Corp,5628.68,Scanner,Electronics,17,1765.16,377.09,692.82,Very Good,Medium,03-09-2023 19:51
+1,328,Green Energy Ltd,5120.4,Circuit Board,Electronics,69,1649.32,81.5,948.55,Fair,Low,21-10-2023 23:19
+4,329,Global Solutions,4385.07,Pen,Office Supplies,11,1446.23,60.37,828,Excellent,Medium,01-10-2023 13:07
+6,330,HealthPlus Supplies,7832.88,Circuit Board,Electronics,94,550.38,289.74,168.78,Poor,Medium,01-10-2023 13:07
+6,331,Global Solutions,615.93,Notebook,Office Supplies,15,810.87,19,351.43,Fair,Very High,03-02-2023 13:19
+5,332,EcoFriendly Products,6185.21,Projector,Electronics,91,214.47,246.35,937.29,Good,Very High,19-03-2023 07:44
+1,333,EcoFriendly Products,5872.33,Tablet,Electronics,35,386.19,113.07,327.75,Poor,Very High,20-03-2023 01:15
+8,334,Creative Marketing Solutions,7303.7,Pen,Office Supplies,33,1568.2,179.55,803.05,Fair,Low,12-07-2023 13:51
+5,335,Urban Construction,6190.78,Packaging Material,Packaging,84,1432.93,390.14,842.62,Poor,Medium,29-05-2023 19:25
+5,336,Urban Construction,8354.59,Desk Lamp,Lighting,16,1191.04,471.21,545.91,Very Good,Very Low,26-02-2023 21:32
+7,337,EcoFriendly Products,9611.21,Printer,Electronics,34,1792.5,45.48,447.71,Very Good,High,23-04-2023 08:04
+4,338,Advanced Engineering,3753.98,Printer,Electronics,66,1170.7,271.78,505.11,Excellent,Very High,16-07-2023 22:53
+6,339,Rapid Delivery Services,2659.83,Electric Motor,Industrial Equipment,99,939.27,442.44,304.27,Excellent,Very High,13-12-2023 11:49
+4,340,Premier Food Distributors,4524.17,Packaging Material,Packaging,40,687.34,50.43,900.45,Very Good,Medium,20-12-2023 01:23
+3,341,Tech Innovations,3235.33,Desktop Computer,Electronics,28,1881.49,414.01,505.56,Poor,Medium,29-06-2023 10:43
+7,342,Secure IT Systems,6342.03,LED Bulb,Lighting,47,174.6,185.32,894.21,Very Good,Low,14-01-2023 03:07
+8,343,Efficient Lighting,9162.6,Consulting Service,Professional Services,39,1862.47,167.83,195.12,Excellent,Low,09-09-2023 15:55
+4,344,Quality Materials,1821.6,Notebook,Office Supplies,70,1655.16,488.96,989.45,Very Good,Very High,14-11-2023 07:33
+2,345,Efficient Lighting,1457.55,Consulting Service,Professional Services,73,268.56,108.42,498.95,Very Good,Medium,19-01-2023 05:40
+3,346,Quality Materials,2932.15,Desk Lamp,Lighting,20,1134.32,349.67,143.05,Poor,Very Low,07-06-2023 13:30
+1,347,Oceanic Transports,7397.91,3D Printer,Electronics,1,1734.43,412.51,134.22,Fair,High,22-04-2023 14:34
+8,348,Rapid Delivery Services,6133.15,Hydraulic Pump,Industrial Equipment,72,1147.9,30.18,771.59,Excellent,Medium,22-04-2023 14:34
+3,349,Oceanic Transports,1471.02,Pen,Office Supplies,87,1815.33,338.49,693.13,Poor,Medium,07-05-2023 04:42
+7,350,Efficient Lighting,9228.13,Desktop Computer,Electronics,63,1886.54,476.26,821.92,Very Good,Low,08-03-2023 09:08
+5,351,Reliable Textiles,8005.8,Office Chair,Furniture,67,850.55,70.87,194.83,Very Good,High,12-11-2023 03:01
+5,352,Urban Construction,718.71,Hydraulic Pump,Industrial Equipment,4,760.85,449.15,132.01,Fair,Very High,03-09-2023 19:51
+7,353,Reliable Textiles,6687.99,Consulting Service,Professional Services,58,1873.28,301.44,557.72,Excellent,Medium,16-12-2023 09:51
+9,354,Premier Food Distributors,7826.84,3D Printer,Electronics,25,1353.53,312.14,448.84,Excellent,Very High,12-05-2023 07:15
+5,355,Creative Marketing Solutions,4057.14,Pen,Office Supplies,47,240.89,310.34,515.75,Good,Medium,05-04-2023 19:54
+1,356,Efficient Lighting,1154.75,Projector,Electronics,38,94.16,156.43,992.43,Excellent,Very High,24-11-2023 12:38
+1,357,Quality Materials,1234.55,Electric Motor,Industrial Equipment,15,1133.61,468.25,973.67,Fair,High,17-12-2023 03:22
+2,358,Acme Corp,1490.35,Circuit Board,Electronics,63,1861.04,474.2,948.08,Good,Low,05-08-2023 15:34
+6,359,Advanced Engineering,8484.18,Pen,Office Supplies,21,1690.05,316.4,805.46,Good,High,19-07-2023 20:55
+9,360,Creative Marketing Solutions,9151.52,Tablet,Electronics,99,1354.94,393.88,419.36,Very Good,Very Low,18-07-2023 09:54
+8,361,Reliable Textiles,1666.7,Projector,Electronics,57,286.84,310.01,470.92,Very Good,Low,25-12-2023 03:56
+5,362,Tech Innovations,2741.11,Electric Motor,Industrial Equipment,53,515.92,247.36,594.65,Excellent,High,31-10-2023 10:55
+1,363,NextGen Electronics,2072.44,Safety Goggles,Safety and Health,46,1752.27,333.8,847.48,Good,Very Low,24-02-2023 17:01
+7,364,Quality Materials,2270.05,Printer,Electronics,14,373.79,280.97,161.84,Very Good,Medium,09-05-2023 09:14
+5,365,Premier Food Distributors,8456.16,Laptop,Electronics,76,564.09,302.76,481.87,Fair,Medium,14-05-2023 11:47
+6,366,Tech Innovations,3655.39,Circuit Board,Electronics,17,267.91,394.08,174.36,Very Good,Very High,20-08-2023 23:13
+7,367,Global Solutions,3458.72,LED Bulb,Lighting,39,1355.46,245.64,563.19,Very Good,Low,05-04-2023 19:54
+3,368,Precision Tools,2660.26,Office Chair,Furniture,9,1888.52,29.97,909.01,Good,Medium,22-09-2023 01:32
+3,369,Automotive Parts Co.,6275,Office Chair,Furniture,99,545.25,90.36,804.24,Good,Low,05-02-2023 00:20
+5,370,Advanced Engineering,4103.4,Printer,Electronics,77,956.06,224.92,305.06,Poor,Medium,09-02-2023 09:22
+6,371,Automotive Parts Co.,7570.37,Circuit Board,Electronics,79,1272.34,365.17,978.39,Fair,Very High,22-04-2023 14:34
+9,372,Oceanic Transports,2453.01,Electric Motor,Industrial Equipment,82,1998.94,300.71,700.62,Good,High,16-09-2023 05:28
+5,373,Efficient Lighting,7984,Laptop,Electronics,97,218.57,328.64,109.38,Excellent,Very High,26-05-2023 03:53
+1,374,NextGen Electronics,6235.35,Projector,Electronics,6,1002.16,244.85,329.87,Fair,Very Low,12-08-2023 22:39
+4,375,Reliable Textiles,1585.54,Consulting Service,Professional Services,91,776.39,311.71,334.64,Fair,Medium,16-09-2023 22:59
+5,376,Tech Innovations,4437.79,Electric Motor,Industrial Equipment,23,1732.98,171.22,162.33,Good,Very Low,29-09-2023 08:36
+5,377,Advanced Engineering,8703.42,Mobile Phone,Electronics,59,957.18,240.39,963.84,Fair,Very Low,27-03-2023 08:19
+7,378,Green Energy Ltd,9268.12,Safety Goggles,Safety and Health,91,230.85,374.7,530.43,Good,Low,11-07-2023 02:50
+4,379,Tech Innovations,4924.15,Hydraulic Pump,Industrial Equipment,98,1272.5,437.2,906.23,Very Good,Medium,02-02-2023 19:48
+1,380,EcoFriendly Products,5067.95,Packaging Material,Packaging,46,1543.85,222.49,389.99,Poor,Very Low,08-08-2023 13:36
+5,381,Advanced Engineering,9225.32,Laptop,Electronics,38,15.73,31.39,212.71,Very Good,High,16-09-2023 22:59
+7,382,EcoFriendly Products,6077.15,Notebook,Office Supplies,14,1719.32,89.22,526.9,Good,Very Low,19-10-2023 01:17
+6,383,Oceanic Transports,812.04,LED Bulb,Lighting,72,380.19,20.22,202.56,Good,High,24-10-2023 21:21
+5,384,Efficient Lighting,9171.12,Software License,IT and Services,62,1108.62,330.1,537.41,Very Good,Low,18-05-2023 03:19
+4,385,Premier Food Distributors,2858.15,Safety Goggles,Safety and Health,35,837.44,172.83,928.27,Excellent,Very Low,14-08-2023 09:40
+2,386,Rapid Delivery Services,5987.5,Desk Lamp,Lighting,19,1442.11,275.81,568.69,Excellent,Very High,20-08-2023 05:43
+4,387,Creative Marketing Solutions,2072.38,Office Chair,Furniture,30,748.61,251.71,654.85,Excellent,Low,04-04-2023 08:53
+3,388,Urban Construction,821.85,Projector,Electronics,78,1740.83,49.95,240.97,Good,High,05-02-2023 00:20
+1,389,EcoFriendly Products,3459,Software License,IT and Services,84,1463.69,207.6,139.36,Fair,Low,18-01-2023 12:10
+8,390,Advanced Engineering,7914.71,Projector,Electronics,25,1298.95,118.07,199.73,Good,Very Low,13-07-2023 07:21
+5,391,EcoFriendly Products,3137.08,Office Chair,Furniture,40,1594.52,215.02,638.68,Fair,Medium,27-03-2023 08:19
+4,392,Urban Construction,2590.92,Tablet,Electronics,88,1510.51,109.75,185.51,Very Good,Medium,04-12-2023 17:44
+8,393,Global Solutions,2520.47,Scanner,Electronics,14,81.52,421.82,438.39,Poor,High,15-04-2023 07:30
+7,394,Oceanic Transports,5394.15,Office Chair,Furniture,26,795.52,95.35,595.08,Fair,High,18-11-2023 16:35
+2,395,Precision Tools,9767.64,Tablet,Electronics,87,1862.31,480.78,449.79,Excellent,Medium,26-05-2023 03:53
+1,396,Urban Construction,4860.4,3D Printer,Electronics,22,260.19,213.79,247.32,Good,High,24-04-2023 19:05
+4,397,Automotive Parts Co.,5794.4,Projector,Electronics,48,1476.82,424.66,346.41,Very Good,Low,21-12-2023 12:24
+8,398,Urban Construction,8676,Desk Lamp,Lighting,83,1949.44,318.09,935.49,Excellent,Very High,11-09-2023 02:56
+2,399,Tech Innovations,5583.16,Tablet,Electronics,51,113.88,370.32,708.38,Very Good,Very High,08-04-2023 00:25
+3,400,Acme Corp,2252.4,Notebook,Office Supplies,3,1367.57,386.18,546.44,Poor,Low,19-10-2023 01:17
+1,401,Advanced Engineering,3346.16,Notebook,Office Supplies,42,941.63,257.37,111.44,Good,Very High,18-04-2023 05:31
+1,402,Precision Tools,3444.4,3D Printer,Electronics,19,1162.56,276.22,993.17,Good,Very Low,02-09-2023 08:50
+3,403,Oceanic Transports,4274.52,Notebook,Office Supplies,73,179.83,261.86,704.31,Poor,Low,21-02-2023 01:29
+5,404,Automotive Parts Co.,4554.49,Scanner,Electronics,28,95.58,298.15,385.23,Good,High,19-06-2023 05:37
+3,405,Acme Corp,8097.93,Scanner,Electronics,84,1337.06,24.4,891.34,Fair,Low,31-08-2023 21:50
+1,406,EcoFriendly Products,3819.18,Consulting Service,Professional Services,45,1648.39,203.8,332.59,Very Good,Medium,06-08-2023 09:05
+1,407,Automotive Parts Co.,4948.2,Scanner,Electronics,71,1566.21,307.03,589.61,Excellent,High,22-04-2023 14:34
+8,408,Premier Food Distributors,6437.27,Notebook,Office Supplies,78,1092.17,302.88,672.46,Poor,Medium,06-03-2023 22:07
+2,409,Tech Innovations,4088.4,LED Bulb,Lighting,63,208.73,398.55,298.96,Fair,High,31-08-2023 21:50
+3,410,Automotive Parts Co.,8447.37,Circuit Board,Electronics,73,1379.21,330.95,980.56,Excellent,Very High,25-05-2023 10:23
+2,411,Oceanic Transports,6080.81,Scanner,Electronics,19,491.36,496.15,773.37,Excellent,Low,27-04-2023 17:07
+3,412,Efficient Lighting,3293.42,Office Chair,Furniture,47,1823.03,149.09,602.03,Poor,Very Low,19-01-2023 05:40
+7,413,Automotive Parts Co.,7283.56,Scanner,Electronics,14,1678.15,185.98,262.54,Fair,High,29-03-2023 12:50
+1,414,Reliable Textiles,5512.65,Printer,Electronics,38,1421.67,198.09,148.47,Excellent,High,07-08-2023 20:06
+8,415,Mountain Outdoor Gear,5577.33,Safety Goggles,Safety and Health,53,1898.2,238.25,388.05,Excellent,Medium,03-06-2023 21:58
+2,416,Urban Construction,5070.34,Desktop Computer,Electronics,61,72.53,419.64,777.87,Fair,Very High,15-02-2023 05:26
+3,417,Global Solutions,5221.61,Circuit Board,Electronics,36,1475.04,125.54,342.4,Good,Medium,25-11-2023 06:09
+9,418,Efficient Lighting,7770.88,Tablet,Electronics,40,667.18,390.24,585.6,Excellent,Medium,14-11-2023 07:33
+7,419,Urban Construction,1478.32,Desk Lamp,Lighting,81,1813.07,208.6,755.15,Very Good,Very High,18-02-2023 20:58
+4,420,Secure IT Systems,3676.45,Printer,Electronics,30,540.68,304.91,197.15,Fair,Very Low,03-07-2023 19:46
+5,421,Rapid Delivery Services,1217.28,Laptop,Electronics,9,1452.46,319.94,716.77,Excellent,Medium,26-10-2023 08:22
+2,422,NextGen Electronics,7655.84,Desktop Computer,Electronics,64,1756.52,192.7,182.68,Poor,Medium,01-12-2023 02:12
+8,423,Rapid Delivery Services,3086.87,Scanner,Electronics,33,92.9,261.18,968.62,Very Good,High,01-01-2023 17:30
+4,424,Premier Food Distributors,9025.59,Mobile Phone,Electronics,52,801.32,212.39,539.55,Excellent,Very High,17-10-2023 14:17
+9,425,Secure IT Systems,5502.5,3D Printer,Electronics,89,1526.99,43.88,235.61,Very Good,Low,20-03-2023 01:15
+5,426,Advanced Engineering,8107.12,Desktop Computer,Electronics,14,915.29,224.21,408.15,Very Good,Very Low,27-07-2023 21:29
+9,427,Tech Innovations,9799.85,Notebook,Office Supplies,75,541.83,57.72,472.07,Good,Very Low,05-02-2023 00:20
+4,428,NextGen Electronics,8477.99,Electric Motor,Industrial Equipment,53,447.41,208.46,782.37,Very Good,Very High,12-04-2023 09:28
+5,429,Precision Tools,8736.44,Consulting Service,Professional Services,99,271.72,300.53,769.08,Good,High,08-06-2023 07:01
+9,430,Mountain Outdoor Gear,4375.85,3D Printer,Electronics,59,1715.69,293.91,650.75,Fair,High,01-02-2023 08:48
+8,431,Premier Food Distributors,5741.36,Circuit Board,Electronics,78,1154.96,334.68,195.34,Good,Very High,31-10-2023 10:55
+3,432,Rapid Delivery Services,2911.94,Desktop Computer,Electronics,94,162.01,56.68,236.41,Poor,High,15-07-2023 11:52
+1,433,Secure IT Systems,2363.07,Desk Lamp,Lighting,41,771.33,329.54,184.38,Excellent,Very Low,26-02-2023 04:02
+3,434,Precision Tools,5302.32,Software License,IT and Services,68,741.79,162.95,619.46,Fair,Very Low,06-06-2023 20:00
+4,435,Acme Corp,6152.97,3D Printer,Electronics,68,371.66,205.53,889.42,Fair,Low,05-10-2023 22:10
+2,436,Oceanic Transports,3723.08,Tablet,Electronics,92,876.66,430.41,490.42,Poor,Very High,12-03-2023 18:10
+1,437,Urban Construction,5909.71,Office Chair,Furniture,8,670.88,14.42,244.76,Good,Medium,21-06-2023 10:08
+7,438,Oceanic Transports,8930.87,Software License,IT and Services,2,690.19,298.32,602.24,Excellent,Medium,24-07-2023 23:28
+8,439,Creative Marketing Solutions,5788.86,Projector,Electronics,86,1480.66,303.37,830.58,Good,Low,18-04-2023 23:02
+7,440,Automotive Parts Co.,7347.72,Notebook,Office Supplies,41,454.29,204.36,767.54,Very Good,Low,27-10-2023 19:22
+5,441,Tech Innovations,8150.49,Desk Lamp,Lighting,55,1287.3,126.14,893.31,Good,High,10-08-2023 00:37
+1,442,Tech Innovations,9892.92,Hydraulic Pump,Industrial Equipment,16,1145.59,124.99,350.11,Fair,Low,19-12-2023 07:53
+7,443,Quality Materials,6230.38,Desk Lamp,Lighting,93,1140.5,443.02,274.56,Excellent,Low,05-11-2023 13:28
+7,444,Efficient Lighting,8165.08,Projector,Electronics,62,1329.38,226.59,891.83,Good,Medium,17-02-2023 09:57
+9,445,Green Energy Ltd,9645.17,Desktop Computer,Electronics,48,1101.28,172.14,691.8,Excellent,High,19-06-2023 23:08
+3,446,HealthPlus Supplies,9471.89,LED Bulb,Lighting,30,1759.72,229.9,379.84,Excellent,Low,29-11-2023 15:11
+9,447,Global Solutions,1840.28,Electric Motor,Industrial Equipment,12,1354.4,338,768.11,Very Good,Low,04-03-2023 17:36
+1,448,Rapid Delivery Services,4360.73,Desktop Computer,Electronics,35,1098.46,81.42,833.61,Very Good,High,26-02-2023 21:32
+1,449,EcoFriendly Products,3577.91,Consulting Service,Professional Services,11,1661.23,230.22,653.48,Fair,Very High,29-05-2023 19:25
+4,450,Advanced Engineering,1325.79,Desk Lamp,Lighting,64,1216.23,298.06,719.1,Poor,High,22-07-2023 18:57
+9,451,Precision Tools,6515.79,Electric Motor,Industrial Equipment,50,589.38,474.81,437.73,Excellent,Medium,03-09-2023 02:21
+6,452,Premier Food Distributors,7491.09,Software License,IT and Services,85,422.12,133.74,584.83,Poor,Very High,04-07-2023 13:16
+3,453,Precision Tools,8557.22,Software License,IT and Services,21,313.13,186.03,571.74,Fair,Very Low,10-08-2023 00:37
+1,454,Mountain Outdoor Gear,1666.38,Tablet,Electronics,69,1799.92,195.89,863.24,Excellent,High,04-10-2023 11:09
+4,455,Oceanic Transports,8826.22,Projector,Electronics,48,1423.17,306.71,855.97,Excellent,Medium,05-04-2023 02:24
+9,456,Urban Construction,6607.79,Pen,Office Supplies,20,1875.38,184.8,849.41,Poor,Very High,02-03-2023 13:04
+3,457,Acme Corp,7187.49,Safety Goggles,Safety and Health,67,1210.55,271.42,109.93,Good,High,20-07-2023 14:25
+9,458,EcoFriendly Products,9150.93,Software License,IT and Services,44,952.07,393.08,774.59,Very Good,Low,16-05-2023 16:18
+7,459,Precision Tools,6435.23,Circuit Board,Electronics,33,128.84,355.64,782.81,Good,High,02-02-2023 19:48
+4,460,Acme Corp,3690.73,Safety Goggles,Safety and Health,73,1346.57,228.72,710.54,Poor,Very Low,09-10-2023 13:42
+3,461,Efficient Lighting,8338.52,Software License,IT and Services,61,1168.6,433.47,780.64,Very Good,High,13-05-2023 18:16
+5,462,EcoFriendly Products,3949.06,Packaging Material,Packaging,9,1980.52,283.49,857.77,Good,Very High,14-07-2023 18:22
+5,463,NextGen Electronics,825.17,Desktop Computer,Electronics,68,485.93,274.55,523.29,Very Good,Very High,04-08-2023 04:34
+3,464,Global Solutions,8391.22,Safety Goggles,Safety and Health,35,1066.17,26.75,551.85,Excellent,High,23-08-2023 03:45
+9,465,Quality Materials,3779.33,Hydraulic Pump,Industrial Equipment,81,1305.41,493.48,212.24,Good,Very High,14-03-2023 05:11
+4,466,Precision Tools,7851.43,LED Bulb,Lighting,98,1292.74,70.26,446.84,Very Good,Low,26-02-2023 04:02
+5,467,HealthPlus Supplies,3946.2,Desktop Computer,Electronics,88,1126.97,123.25,679.03,Very Good,High,17-07-2023 16:24
+4,468,Efficient Lighting,8680.15,Consulting Service,Professional Services,96,1556.09,35.33,802.36,Very Good,Low,04-09-2023 13:22
+5,469,Global Solutions,2585.35,3D Printer,Electronics,65,417.91,323.6,295.49,Good,Low,28-04-2023 10:37
+7,470,Quality Materials,9758.2,Laptop,Electronics,8,1454,120.1,224.04,Fair,Medium,01-02-2023 08:48
+9,471,Mountain Outdoor Gear,7907.71,Notebook,Office Supplies,45,1243.27,98.21,696.74,Good,High,22-06-2023 21:09
+7,472,Reliable Textiles,1585.26,Electric Motor,Industrial Equipment,87,1793.19,53.39,101.69,Poor,Very High,08-04-2023 00:25
+5,473,Secure IT Systems,5874.88,Laptop,Electronics,47,1695.92,60.62,260.54,Good,Low,02-12-2023 13:13
+7,474,Secure IT Systems,9860.99,Laptop,Electronics,40,637.14,296.49,126.16,Very Good,Medium,20-05-2023 07:50
+5,475,NextGen Electronics,4975.12,Laptop,Electronics,76,559.71,347.22,250.2,Excellent,High,16-09-2023 22:59
+3,476,HealthPlus Supplies,2230.02,LED Bulb,Lighting,54,1963.49,204.72,263.19,Good,High,22-07-2023 01:26
+7,477,Reliable Textiles,5105.39,LED Bulb,Lighting,76,1059.26,245.15,448.91,Good,Very Low,13-01-2023 09:37
+2,478,Automotive Parts Co.,5368.35,Notebook,Office Supplies,46,1813.78,346.12,462.09,Very Good,Very Low,09-01-2023 00:34
+9,479,NextGen Electronics,7546.03,Hydraulic Pump,Industrial Equipment,47,336.12,18.52,886.84,Excellent,Low,11-05-2023 13:45
+1,480,Acme Corp,7139.04,Laptop,Electronics,15,1289.21,168.33,559.1,Excellent,Very Low,30-03-2023 23:51
+6,481,Precision Tools,4324.23,Packaging Material,Packaging,19,1621.62,486.82,751.06,Poor,Low,28-06-2023 17:13
+7,482,Quality Materials,2571.22,Safety Goggles,Safety and Health,26,1895.32,294.25,193.72,Good,Very High,11-06-2023 05:03
+8,483,Automotive Parts Co.,6628.01,LED Bulb,Lighting,52,681.31,134.57,302.89,Excellent,Low,29-09-2023 08:36
+9,484,Premier Food Distributors,4506.19,Consulting Service,Professional Services,93,1452.71,265.65,732.65,Excellent,Very Low,06-02-2023 11:21
+2,485,Oceanic Transports,1756.62,Projector,Electronics,22,1082.24,177.9,147.52,Fair,Very High,22-12-2023 05:54
+2,486,Efficient Lighting,9055.44,Desktop Computer,Electronics,21,130.65,270.8,537.94,Fair,Very Low,21-02-2023 01:29
+5,487,Global Solutions,7066.61,Notebook,Office Supplies,51,1383.1,71.61,639.43,Excellent,Low,16-12-2023 09:51
+5,488,Tech Innovations,6990.25,Packaging Material,Packaging,38,1383.29,75.03,641.93,Poor,Medium,04-02-2023 06:49
+6,489,Quality Materials,8314.55,Desk Lamp,Lighting,20,1861.91,80.34,120.64,Excellent,High,14-01-2023 03:07
+3,490,Creative Marketing Solutions,5531.79,Printer,Electronics,29,999.65,470.51,389.9,Very Good,Very Low,10-07-2023 09:19
+8,491,Mountain Outdoor Gear,8243.02,Notebook,Office Supplies,51,468.2,369.12,672.84,Good,Low,02-03-2023 13:04
+1,492,Advanced Engineering,5231.86,Printer,Electronics,4,98.68,89.57,234.1,Poor,Very High,23-04-2023 08:04
+6,493,Precision Tools,1138.17,Desk Lamp,Lighting,55,837.13,102.29,725.87,Very Good,Very Low,07-02-2023 22:21
+4,494,Tech Innovations,4349.86,Software License,IT and Services,71,610.81,368.11,771.33,Poor,Very Low,19-03-2023 07:44
+1,495,NextGen Electronics,5225.92,Hydraulic Pump,Industrial Equipment,92,1524.57,86.52,983.77,Very Good,High,17-09-2023 16:29
+7,496,Tech Innovations,7341.92,Electric Motor,Industrial Equipment,28,714.99,124.94,288.86,Good,Low,10-08-2023 00:37
+9,497,Efficient Lighting,1512.5,Packaging Material,Packaging,4,1898.65,482.04,842.62,Good,Medium,08-04-2023 17:56
+4,498,Acme Corp,1830.18,Desk Lamp,Lighting,22,1925,135.1,568.27,Fair,Very High,19-11-2023 10:06
+4,499,HealthPlus Supplies,3005,Scanner,Electronics,76,1245.61,334.2,436.12,Very Good,Low,19-02-2023 14:28
+6,500,Precision Tools,3031.73,Notebook,Office Supplies,45,1858.03,489.53,210.14,Fair,Very High,08-01-2023 07:04
