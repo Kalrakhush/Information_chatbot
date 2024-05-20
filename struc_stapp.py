@@ -62,7 +62,15 @@ memory = ConversationBufferWindowMemory(
         return_messages=True
 )
 #3. Set up the LLM
-os.environ["OPENAI_API_KEY"] = st.secrets.get('OPENAI_API_KEY')
+# Securely load API key from Streamlit secrets (if available)
+api_key = st.secrets.get("OPENAI_API_KEY")
+
+# If API key not found in secrets, handle it gracefully
+if not api_key:
+    st.error("Please set your OpenAI API key in Streamlit secrets.")
+else:
+    # Set environment variable (optional, can be removed if unnecessary)
+    os.environ["OPENAI_API_KEY"] = api_key
 # llm_chain = LLMChain(llm=ChatOpenAI(temperature=0, model = "gpt-4"), prompt=prompt)
 multi_agent = create_csv_agent(
     ChatOpenAI(temperature=1.0, model="gpt-4"),
