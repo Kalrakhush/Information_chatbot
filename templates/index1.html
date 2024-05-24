@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Information Assistant</title>
+</head>
+<body>
+    <h1>Your Smart Information Assistant</h1>
+    <form id="query-form">
+        <label for="session_id">Enter a session ID (or leave blank for a new session):</label><br>
+        <input type="text" id="session_id" name="session_id"><br>
+        <label for="query">What can I help you with today?</label><br>
+        <input type="text" id="query" name="query"><br>
+        <button type="submit">Ask</button>
+    </form>
+    <h2>Chatbot Response:</h2>
+    <div id="response"></div>
+
+    <script>
+        document.getElementById('query-form').addEventListener('submit', async function(event) {
+            event.preventDefault();
+            const formData = new FormData(event.target);
+            const response = await fetch('/ask', {
+                method: 'POST',
+                body: formData
+            });
+            const data = await response.json();
+            document.getElementById('response').innerText = data.response;
+        });
+    </script>
+</body>
+</html>
