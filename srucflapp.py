@@ -36,8 +36,8 @@ memory = ChatMessageHistory(
     return_messages=True
 )
 
-# Set up the LLM
-os.environ["OPENAI_API_KEY"] = ""
+# # Set up the LLM
+# os.environ["OPENAI_API_KEY"] = ""
 
 multi_agent = create_csv_agent(
     ChatOpenAI(temperature=1.0, model="gpt-4"),
