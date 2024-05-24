@@ -75,7 +75,7 @@ memory = ChatMessageHistory(
 #     # Set environment variable (optional, can be removed if unnecessary)
 #     os.environ["OPENAI_API_KEY"] = """api_key""" 
 # # llm_chain = LLMChain(llm=ChatOpenAI(temperature=0, model = "gpt-4"), prompt=prompt)
-# os.environ["OPENAI_API_KEY"] = ""
+os.environ["OPENAI_API_KEY"] = ""
 multi_agent = create_csv_agent(
     ChatOpenAI(temperature=1.0, model="gpt-4"),
     ["Procurement.csv", "HCM_Data.csv","Finance.csv"],
