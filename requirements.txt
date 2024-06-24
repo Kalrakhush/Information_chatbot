@@ -6,6 +6,7 @@ matplotlib
 langchain
 fastapi
 langchain_openai
+tabulate
 langchain_community
 faiss-cpu
 python-dotenv
