@@ -1,5 +1,8 @@
 streamlit
 PyPDF2
+pandas
+seaborn
+matplotlib
 langchain
 matplotlib
 fastapi
