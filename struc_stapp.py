@@ -54,8 +54,7 @@ memory = ChatMessageHistory(
     return_messages=True
 )
 
-# Set up the LLM
-os.environ["OPENAI_API_KEY"] = ""
+
 # Securely load API key from Streamlit secrets (if available)
 api_key = st.secrets.get("OPENAI_API_KEY")
 
