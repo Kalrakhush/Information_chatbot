@@ -4,7 +4,6 @@ pandas
 seaborn
 matplotlib
 langchain
-matplotlib
 fastapi
 langchain_openai
 langchain_community
