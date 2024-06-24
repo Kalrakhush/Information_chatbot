@@ -122,7 +122,9 @@ if st.button("Ask"):
         # Invoke the chat chain to get the response
         response_dict = agent_with_chat_history.invoke(
             {"input": full_query, "chat_history": session_history.messages},
-            config={"configurable": {"session_id": session_id}}
+            config={"configurable": {"session_id": session_id}
+                   "allow_dangerous_code": True 
+                   }
         )
         response = response_dict.get("output", "No answer found")
         session_history.add_message({"role": "user", "content": query})
