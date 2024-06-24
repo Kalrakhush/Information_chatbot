@@ -71,6 +71,7 @@ multi_agent = create_csv_agent(
     prompt=prompt,
     memory=memory,
     agent_type=AgentType.OPENAI_FUNCTIONS,
+    allow_dangerous_code=True,
 )
 
 chain = load_qa_chain(multi_agent, chain_type="stuff")
