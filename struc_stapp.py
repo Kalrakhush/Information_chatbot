@@ -99,6 +99,7 @@ if file_paths:
         prompt=prompt,
         memory=memory,
         agent_type=AgentType.OPENAI_FUNCTIONS,
+        handle_parsing_errors=True,
         allow_dangerous_code=True,
     )
 
