@@ -101,7 +101,7 @@ if file_paths:
 # Create the agent with dynamically uploaded files
 if file_paths:
     multi_agent = create_csv_agent(
-        ChatOpenAI(temperature=1.0, model="gpt-4"),
+        ChatOpenAI(temperature=0.7, model="gpt-4"),
         file_paths,
         verbose=True,
         prompt=prompt,
