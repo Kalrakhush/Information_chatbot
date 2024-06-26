@@ -3,7 +3,8 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 from io import BytesIO
-from langchain.chat_models import ChatOpenAI
+from langchain_community.chat_models import ChatOpenAI
+from langchain_community.tools import ReadFileTool
 from langchain_experimental.agents import create_csv_agent
 from langchain.agents.agent_types import AgentType
 from langchain.chains.question_answering import load_qa_chain
@@ -18,15 +19,16 @@ from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_core.runnables.history import RunnableWithMessageHistory
 from langchain_core.chat_history import BaseChatMessageHistory
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from langchain.tools.file_management import (
+from langchain_community.tools import (
     ReadFileTool,
     WriteFileTool,
     ListDirectoryTool,
 )
 from langchain.agents import ZeroShotAgent
-from langchain.agents.agent_toolkits import FileManagementToolkit
+from langchain_community.agent_toolkits.file_management.toolkit import FileManagementToolkit
 from PIL import Image
-# Securely load API key from Streamlit secrets (if available)
+
+# # Securely load API key from Streamlit secrets (if available)
 api_key = st.secrets.get("OPENAI_API_KEY")
 
 # If API key not found in secrets, handle it gracefully
@@ -92,6 +94,12 @@ if uploaded_files:
 
 # Create the agent with dynamically uploaded files
 if file_paths:
+    # Load all CSV files into DataFrames and combine them if necessary
+    dfs = [pd.read_csv(file_path) for file_path in file_paths]
+    df = pd.concat(dfs, ignore_index=True)
+
+# Create the agent with dynamically uploaded files
+if file_paths:
     multi_agent = create_csv_agent(
         ChatOpenAI(temperature=1.0, model="gpt-4"),
         file_paths,
@@ -99,8 +107,8 @@ if file_paths:
         prompt=prompt,
         memory=memory,
         agent_type=AgentType.OPENAI_FUNCTIONS,
-        handle_parsing_errors=True,
         allow_dangerous_code=True,
+        handle_parsing_errors=True,
     )
 
     # Load QA chain with the created agent
