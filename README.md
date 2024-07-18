@@ -1,2 +1,2 @@
 https://structureinfo.streamlit.app/
-https://informationchatbot.streamlit.app/
+https://infochatbot.streamlit.app/
