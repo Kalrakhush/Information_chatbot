@@ -17,8 +17,16 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 import os
 
-# Set OpenAI API key
-os.environ["OPENAI_API_KEY"] = st.secrets.get('OPENAI_API_KEY')
+# # Securely load API key from Streamlit secrets (if available)
+api_key = st.secrets.get("OPENAI_API_KEY")
+
+# If API key not found in secrets, handle it gracefully
+if not api_key:
+    st.error("Please set your OpenAI API key in Streamlit secrets.")
+else:
+    # Set environment variable (optional, can be removed if unnecessary)
+    os.environ["OPENAI_API_KEY"] = api_key
+    
 llm = ChatOpenAI(model="gpt-4-turbo", temperature=1.0)
 
 # Load PDF files and combine text
